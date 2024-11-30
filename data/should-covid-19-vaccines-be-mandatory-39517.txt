@@ -1,0 +1,1675 @@
+Discussion Name:
+Should COVID-19 Vaccines be Mandatory?
+
+1. Thesis:
+COVID-19 vaccines should be mandatory.
+
+  1.1. Con:
+  Mandatory vaccines would be a huge overreach of state powers.
+
+    1.1.1. Pro:
+    It is an infringement of the right to personal autonomy.
+
+      1.1.1.1. Pro:
+      Right to personal autonomy includes the right to bodily integrity [1]: which means that every person can choose what can and cannot be done to their bodies.
+
+        1.1.1.1.1. Con:
+        The right to bodily integrity does not include situations where public health is protected and safeguarded by undergoing a medical procedure.
+
+          1.1.1.1.1.1. Pro:
+          In Australia, a public health act [2] permits the state to compel people to undergo medical treatment or procedures in order to address a public health issue.
+
+      1.1.1.2. Con:
+      Personal autonomy ends when an individual's actions harm others (pp. 197-198) [3], such as disrupting the creation of herd immunity [4] for COVID-19.
+
+        1.1.1.2.1. Con:
+        It is impossible to unequivocally determine that abstaining from vaccination is guaranteed to harm others or prevent eventual herd immunity. Individuals' lifestyles and biologies are too complex and variable to justify such a blanket assumption as a precedent for legal violation of bodily autonomy.
+
+        1.1.1.2.2. Pro:
+        Disrupting the creation of herd immunity is comparable to disregarding traffic lights. If even one person does it, it disrupts the flow of traffic and puts several people at enormous risk. It is justified that such action is curbed even at the cost of personal autonomy.
+
+        1.1.1.2.3. Pro:
+        It is selfish to not want to save other lives.
+
+          1.1.1.2.3.1. Con:
+          Selfishness is determined by the individual. It wouldn't be selfish to act in your own safety, since you may have responsibilities towards family or community
+
+        1.1.1.2.4. Pro:
+        In Jacobson v. Massachusetts [5], the US Supreme Court explained that rights under the US constitution are not absolute and vaccination can be enforced when there is a reasonable case made towards safeguarding public health and lives.
+
+      1.1.1.3. Pro:
+      In some cases, refusing vaccination [6] can be a part of one's right to religious beliefs. [7]
+
+      1.1.1.4. Pro:
+      This would be unconstitutional based on freedom of privacy, and contrary to the constitutional principles arrived at in Roe vs Wade [8].
+
+      1.1.1.5. Pro:
+      The state should instead consider less intrusive policies such as requiring compulsory vaccinations for only certain high-risk population groups.
+
+        1.1.1.5.1. Con:
+        The elderly, who are considered high-risk for COVID-19, have weaker immune system functionality. Vaccinations are likely to be less effective [9] with them. Therefore, a better option is to immunize a large enough part of the population so as to achieve herd immunity.
+
+    1.1.2. Con:
+    Other measures towards reducing the spread of COVID-19, such as an economic lockdown, compulsory masks and social distancing, are a greater and more continued overreach of state power than mandatory vaccination.
+
+      1.1.2.1. Pro:
+      Unnecessary use of state power can upset the balance [10] between individual rights and community well-being.
+
+        1.1.2.1.1. Con:
+        Use of state power has been justified when it is needed to regulate private rights in the public interest [11].
+
+        1.1.2.1.2. Pro:
+        Use of public policy regulations is only one "lever" [12] of many for the promotion of public well-being.
+
+      1.1.2.2. Pro:
+      Locking down the economy and restricting people's right to movement is a huge infringement [13] of personal liberty.
+
+        1.1.2.2.1. Pro:
+        In poorer countries, like India, people died not just as a result of COVID-19 but also due to the impact of the lockdown [14] and the manner in which it was enforced.
+
+    1.1.3. Con:
+    It is a duty of the state [15] to protect its citizens from life-threatening diseases such as COVID-19.
+
+      1.1.3.1. Pro:
+      Austria has announced that COVID-19 vaccines will be mandatory for all [16] starting Feb 1, 2022.
+
+      1.1.3.2. Con:
+      No state existed when mankind came into existence, so naturally there was no duty assigned to a state or any individual human to protect any other humans from the harshness of reality.
+
+        1.1.3.2.1. Con:
+        While states may not have been always existed, states were created [17] to protect the natural rights (including the right to life) of people.
+
+      1.1.3.3. Con:
+      Providing healthcare is best left to the market [18]. Government interference in healthcare creates inefficiency and dependency.
+
+        1.1.3.3.1. Con:
+        The market is profit-oriented [19] and as such, seldom caters to people's need for safety and affordability.
+
+      1.1.3.4. Pro:
+      There is already a precedent for the state passing laws governing bodily choices in the name of public safety, such as banning the use of methamphetamine [20].
+
+    1.1.4. Con:
+    Mandatory vaccinations can be enforced through non-state actors such as workplaces, stores and privately owned public spaces, which could require a proof of vaccination for entry.
+
+      1.1.4.1. Pro:
+      Airlines sometimes require "fitness to fly" certificate [21] from passengers flying with them. This could be extended to include proof of immunization from COVID-19.
+
+        1.1.4.1.1. Pro:
+        Many countries are required [22] to present proof of vaccination from diseases such as polio and malaria when applying for a visa (p. 3).
+
+      1.1.4.2. Con:
+      Refusing entry to schools and workplaces could infringe upon other rights [23] such as the right to education or the right to employment.
+
+        1.1.4.2.1. Con:
+        Homeschooling options [24] are available to those who are denied admission or entry into schools. As for workplaces, the COVID-19 pandemic has paved the way for more and more employees to work from home.
+
+      1.1.4.3. Con:
+      Even if a product offers benefits, the state should not force it upon an entire population. This is akin to mandating that all tech customers should only purchase Microsoft products because they are beneficial.
+
+      1.1.4.4. Pro:
+      There has been protracted discussion in the media and in governments across the world about a vaccine visa. [25]
+
+        1.1.4.4.1. Pro:
+        Proof of immunization [26] from COVID-19 is already being added as a requirement to enter a number of EU countries.
+
+    1.1.5. Pro:
+    The state should not mandate its citizens to undertake tasks that may carry a risk of harm.
+
+      1.1.5.1. Pro:
+      Around 80% [27] of those who get infected with COVID-19 experience either mild or no illness. It is not justified for people to be asked to take risks, even minimal ones, for the sake of the 20% who are vulnerable.
+
+        1.1.5.1.1. Con:
+        People are typically immunized for a disease even when they are not particularly vulnerable to it.
+
+          1.1.5.1.1.1. Pro:
+          Rubella causes only mild illness in most people but when contracted by pregnant women it can result in serious birth defects. Therefore, many countries immunize children, who are already born, towards rubella [28] to protect pregnant women and fetuses.
+
+      1.1.5.2. Pro:
+      Many countries are pushing to rush testing of the COVID-19 vaccine, opening the possibility for unintended harmful side effects.
+
+        1.1.5.2.1. Pro:
+        Some vaccines end up worsening the effects of the illness, a phenomenon called antibody-dependant enhancement [29]. This has occurred as recently as 2016 with a drug, Dengavxia, intended to protect kids from dengue which ultimately increased hospitalizations for the virus.
+
+          1.1.5.2.1.1. Pro:
+          Scientists have already observed [30] antibodies typical of ADE in the blood of some COVID-19 survivors.
+
+          1.1.5.2.1.2. Con:
+          The occurrence of ADE for the use of Dengavxia, which was produced prior to the pandemic, indicates that even when normal procedures are followed, there is still a risk attached to a new product.
+
+        1.1.5.2.2. Pro:
+        At least one pharmaceutical manufacturer of a potential COVID-19 vaccine skipped animal testing [31], an important safety protocol in typical vaccine development processes.
+
+          1.1.5.2.2.1. Con:
+          Rumours about manufacturers skipping animal testing are patently untrue [32].
+
+        1.1.5.2.3. Con:
+        The World Health Organization [33] has stated that the "fast-tracking [of the vaccine] does not mean a compromise on safety or efficacy."
+
+        1.1.5.2.4. Con:
+        Two of the major vaccines have over 90% efficacy [34], which means that they will dramatically reduce the likelihood of infection.
+
+          1.1.5.2.4.1. Pro:
+          In current clinical trials, pharmaceutical company Moderna has observed stable antibody retention [35] for a significant period of time after their COVID-19 vaccine was administered.
+
+          1.1.5.2.4.2. Pro:
+          The Moderna vaccine has been shown to confer 95% protection against COVID-19 infection [36].
+
+          1.1.5.2.4.3. Con:
+          The Sinopharm vaccine has only 79% efficacy [37].
+
+          1.1.5.2.4.4. Pro:
+          The Pfizer-BioNTech vaccine [38] is 95% effective.
+
+          1.1.5.2.4.5. Con:
+          There are multiple [39] COVID-19 vaccines, all with different levels of efficacy.
+
+      1.1.5.3. Con:
+      Many countries currently enforce drafts or mandatory military service, an extremely risky endeavor.
+
+        1.1.5.3.1. Con:
+        Even if the state is infringing on its citizens' rights, doesn't make it right to infringe even more. Two wrongs doesn't make a right.
+
+        1.1.5.3.2. Con:
+        The draft in the United States was ended by Congress in 1973, and is generally recognized [40] as being antithetical to the philosophy of personal liberty espoused by the U.S. constitution.
+
+          1.1.5.3.2.1. Con:
+          The U.S. still utilizes the selective service system [41], allowing for conscription of any able-bodied man over the age of 18 in times of war.
+
+        1.1.5.3.3. Pro:
+        Over 35 nations require some form of compulsory military service [42] for at least one year's time.
+
+        1.1.5.3.4. Con:
+        Military service is for maintaining the sovereignty of the whole state. It has a higher purpose and a resulting loss of life that brings glory to the martyr and their family. Illness and death due to the side effects of vaccinations are not glorious and is a sad loss. Hence both mandates are not comparable.
+
+          1.1.5.3.4.1. Con:
+          Healthcare workers [43] who have lost lives in the fight against the pandemic are sometimes treated as martyrs. The same can be the case for people who face side-effects of vaccines.
+
+            1.1.5.3.4.1.1. Con:
+            The workers who fight against the pandemic can also be vaccinated only if they need it. Mandating vaccination for them would be unnecessary [44] and risky if they have already developed natural immunity [45]. Following guidelines [46] reduces the risk of spread significantly.
+
+      1.1.5.4. Pro:
+      A number of people are suspected to have died in Norway [47] on account of taking the vaccine.
+
+        1.1.5.4.1. Con:
+        Since it is unlikely that a younger demographic will see adverse reactions, them getting vaccinated would help build herd immunity to protect the elderly, particularly those who are unvaccinated or those who would risk health concerns if vaccinated.
+
+        1.1.5.4.2. Con:
+        Those who have died are believed to have been incredibly frail [48] and are not representative of how most people would react to receiving a vaccine.
+
+    1.1.6. Pro:
+    Forcing citizens to undergo a medical procedure against their will increases mistrust in public institutions and increases the influence of the anti-vaccination movement [49].
+
+      1.1.6.1. Pro:
+      In some countries, there might be resistance against having a mandatory vaccination policy. In the US, for instance, considering that people from some states are disproportionately against COVID-19 vaccination [50], it is unlikely that such states will agree to a mandatory vaccination policy.
+
+      1.1.6.2. Con:
+      If mandatory vaccination policy is carried out alongside a public education program, it would ease tensions by convincing more people of the benefits of vaccination.
+
+    1.1.7. Pro:
+    Making COVID-19 vaccinations mandatory entails that people who do not get vaccinated will be penalized for not doing so. This can be considered unfair to some people.
+
+      1.1.7.1. Pro:
+      Not getting vaccinated for COVID-19 increases one's risk of getting infected and even dying. Penalty towards actions that put oneself at risk is justified in the same way as a penalty towards driving without a helmet is justified.
+
+        1.1.7.1.1. Con:
+        People who smoke or consume alcohol are not penalized even if they are engaging in risky behaviour. This is because adults are free to make their own choices after considering the risks and rewards.
+
+        1.1.7.1.2. Con:
+        People who make unhealthy choices should not be seen as offenders but victims who need help and information that enables them to make better choices.
+
+      1.1.7.2. Con:
+      The government can reward behaviour by announcing financial incentives for those who choose to vaccinate. This is preferable and less intrusive than penalizing people for not vaccinating.
+
+      1.1.7.3. Pro:
+      Penalizing for not vaccinating can increase existing inequities [51] in health.
+
+        1.1.7.3.1. Pro:
+        If the vaccines are not provided free of cost, mandatory vaccination would mean that poorer communities bear higher burden in terms of giving up a share of their income towards purchasing them.
+
+        1.1.7.3.2. Pro:
+        Fines imposed at a flat rate [52] are inherently unjust.
+
+      1.1.7.4. Pro:
+      Practically, penalizing can take the form of restricted access to public places, limited job availability and reduced social benefits which can be seen as unfair.
+
+      1.1.7.5. Con:
+      Considering the benefits in terms of lives saved and improved public health, it is justified to penalize people who jeopardize these benefits.
+
+        1.1.7.5.1. Pro:
+        Those who reject COVID-19 vaccines are harming others through increased infection and death rate. Therefore, it is justified that such harmful behaviour is penalized.
+
+          1.1.7.5.1.1. Pro:
+          Mandatory vaccination and the penalties that come with it are comparable to smoking in public. Penalties imposed on people smoking in places which do not allow it are justified in the light of improved quality of air and public health benefits it can bring.
+
+        1.1.7.5.2. Pro:
+        Australian legislation [53] withholding state benefits for those who did not vaccinate has increased immunization rates.
+
+    1.1.8. Con:
+    The state already makes certain vaccines a requirement for attending public schools or holding certain positions.
+
+      1.1.8.1. Con:
+      Mandatory state vaccines are decades-old with tonnes of data and research [54] to back their safety and effectiveness up.
+
+        1.1.8.1.1. Con:
+        Despite the data and research on the safety of vaccines themselves, this does not necessarily ensure the safety of a mandate. The current state of our society is very divided on vaccines, and a mandate could cause a significant enough portion of our population to react negatively. This would affect safety in ways not covered by your claim.
+
+      1.1.8.2. Con:
+      Parents can still claim exemptions for their children from mandated vaccinations for medical, religious, and philosophical reasons. [55]
+
+        1.1.8.2.1. Con:
+        Exemptions could arguably still exist for the Covid-19 vaccines, making this point irrelevant to an overall mandate.
+
+      1.1.8.3. Pro:
+      Mandatory vaccination falls under the "police power" [56] of a state.
+
+      1.1.8.4. Pro:
+      In some places in the US, healthcare workers are required [57] to get vaccinated against the seasonal flu or to provide a reason for exemption from their physician.
+
+  1.2. Pro:
+  Mandatory vaccine policies have proved extremely helpful in the fight against other preventable illnesses.
+
+    1.2.1. Con:
+    No control group. If we vaccinate everyone we will have no future long term effect comparison group.
+
+    1.2.2. Con:
+    Mandatory vaccine policies in not well established vaccines, risk catastrophic [58] consequences.
+
+    1.2.3. Con:
+    A study of European countries [59] discovered, "Those [countries] where a vaccination is mandatory do not usually reach better coverage than neighbour or similar countries where there is no legal obligation."
+
+    1.2.4. Pro:
+    Compulsory vaccination greatly reduces infection rates for diseases.
+
+      1.2.4.1. Pro:
+      In the US, states with mandatory school immunization laws had a 40-51% lower rate of measles [60] than states without mandatory immunization laws.
+
+      1.2.4.2. Pro:
+      Even if not fully successful, vaccines will greatly reduce [61] the number of people getting infected, the mortality rate and the burden on the public healthcare system.
+
+      1.2.4.3. Pro:
+      A UK study [62] showed that compulsory vaccination against measles raised the proportion of children protected against measles.
+
+    1.2.5. Pro:
+    In the past, mandatory vaccinations have increased vaccine uptake [63]. They are likely to be similarly effective in this case.
+
+    1.2.6. Pro:
+    -> See 1.1.8.
+
+  1.3. Con:
+  A mandatory vaccine policy would vastly increase already present inequalities in medical treatment.
+
+    1.3.1. Pro:
+    A mandatory vaccine policy would greatly increase competition between countries for supply, increasing the already inequitable distribution of vaccines throughout the world.
+
+      1.3.1.1. Pro:
+      Mandatory vaccination could result in rich countries hoarding vaccines [64] for their population. This could make vaccines inaccessible or unaffordable for poorer countries.
+
+        1.3.1.1.1. Pro:
+        The price of individual doses of the COVID-19 vaccine is based on deals worked out between pharmaceutical companies and individual companies, leading to a wide disparity [65] in prices between countries.
+
+          1.3.1.1.1.1. Pro:
+          Moderna, a pharmaceutical company with a COVID-19 vaccine candidate, has already secured deals [66] with several countries for a dose price of $32-$37.
+
+          1.3.1.1.1.2. Pro:
+          Many pharmaceutical companies have stated that they intend to make a profit [67] off the COVID-19 vaccine stating, "We will not sell it at cost."
+
+          1.3.1.1.1.3. Con:
+          The World Bank and Coalition for Epidemic Preparedness Innovations have created a global fund [68] to cover vaccine development until vaccines can be licensed or used under emergency use provisions.
+
+          1.3.1.1.1.4. Con:
+          Financing mechanisms [69] such as those developed for AIDS and malaria drugs could be used to reduce the cost of the vaccine for certain countries.
+
+        1.3.1.1.2. Pro:
+        While the prices of vaccines are likely to be low in the beginning, they will increase as time passes. This will leave such countries worse off in the long run.
+
+          1.3.1.1.2.1. Pro:
+          Vaccine-makers have indicated [70] that, while they are willing to sell at lower prices during the pandemic, beyond it, their pricing will be in line "with other innovative commercial vaccines."
+
+          1.3.1.1.2.2. Con:
+          Given that supply will increase as more vaccines are approved for use, and demand will decrease as more people are vaccinated, the laws of supply and demand dictate [71] that prices will reduce as time passes.
+
+      1.3.1.2. Con:
+      Some countries in Europe, such as France and Germany [72], have promised a fair and equitable distribution of COVID-19 vaccination amongst all countries in the world.
+
+      1.3.1.3. Pro:
+      It will be easier for rich countries to access, produce and distribute [73] COVID-19 vaccines. These countries will therefore recover faster from the pandemic. This will increase existing inequality in public health and economy between rich and poor countries.
+
+        1.3.1.3.1. Pro:
+        Data on vaccine deals [74] show that the vast majority of vaccines bought so far are by high-income countries.
+
+        1.3.1.3.2. Pro:
+        Many developing countries [75] cannot afford to buy vaccines without assistance from rich countries.
+
+        1.3.1.3.3. Con:
+        COVAX [76], a program co-led by the World Health Organisation, (WHO) is pooling donations from rich developed countries and philanthropists to make vaccines accessible to poor countries.
+
+          1.3.1.3.3.1. Pro:
+          COVAX [77] aims to prevent the same sweep up of vaccine doses by high-income countries that occurred during the 2009 swine flu.
+
+          1.3.1.3.3.2. Con:
+          The COVAX programme has a high risk of failure [78].
+
+        1.3.1.3.4. Pro:
+        Wealthy countries have been stockpiling COVID-19 vaccines [79], so that little to none are left behind for poorer nations.
+
+          1.3.1.3.4.1. Pro:
+          Even before a single vaccine had been proven viable, deals worth millions, if not billions [80], of euros had already been made by certain countries to ensure they had first access to the vaccine.
+
+            1.3.1.3.4.1.1. Pro:
+            By the end of July 2020, the U.K. had secured deals for millions of doses with multiple possible vaccine candidates [81].
+
+          1.3.1.3.4.2. Pro:
+          In August 2020, rich countries had already pre-ordered more than two billion doses [82] of vaccines for their population.
+
+          1.3.1.3.4.3. Con:
+          Some vaccine producers, like those in China [83], are focusing on providing vaccines to the developing world.
+
+      1.3.1.4. Pro:
+      Rich countries have a moral obligation to help poorer countries in accessing vaccines.
+
+        1.3.1.4.1. Con:
+        It is the government's responsibility of a poor country to help its citizens not the job of rich countries.
+
+        1.3.1.4.2. Con:
+        Just because a country is rich, doesn't necessarily mean said country is morally obligated to give handouts to poorer countries.
+
+          1.3.1.4.2.1. Pro:
+          Suggesting that a rich country has a moral obligation to help a poor country is like suggesting that a billionaire is morally obligated to help out those in debt.
+
+            1.3.1.4.2.1.1. Con:
+            Some people argue [84] that billionaires do have a moral obligation to help the rest of society.
+
+    1.3.2. Pro:
+    Differences over how to distribute the vaccine in a mandatory system will lead to some people being prioritized over others.
+
+      1.3.2.1. Con:
+      Healthcare professionals need to be safe and healthy to perform their duties, which in turn is important in order to keep the population healthy. This is why they should be vaccinated first [85].
+
+        1.3.2.1.1. Con:
+        Instead of prioritizing [86] healthcare workers, it is better to vaccinate people living in worst-affected areas in order to prevent the outbreak from spreading. That is a better way to reduce the overall burden on our healthcare systems.
+
+      1.3.2.2. Pro:
+      COVID-19 disproportionately affects communities of color [87] in the US. While a distribution that divides doses equally based on population [88] between states may be "fair", it may unequally reach those who most need it.
+
+      1.3.2.3. Pro:
+      It is understood [89] that there will initially be a limited supply of COVID-19 vaccine doses, requiring countries to choose who takes priority in receiving them.
+
+        1.3.2.3.1. Pro:
+        For the H1N1 virus, the government designated a priority group [90] to receive treatment consisting of, "pregnant women, caregivers for infants, healthcare and emergency services personnel, children and youths up to 24 years old, and people ages 25 to 64 who have medical conditions that put them at increased risk for severe outcomes."
+
+        1.3.2.3.2. Pro:
+        Designating priority status to certain people leaves little room for flexibility [91] and can result in arguably unfair outcomes for those who try to do their best in certain difficult situations.
+
+      1.3.2.4. Con:
+      Certain groups are already at higher risk [92] for contracting COVID-19. Not prioritizing these groups may lead to unnecessary deaths.
+
+      1.3.2.5. Con:
+      Hospitals are already overwhelmed [93] with COVID-19 patients. Prioritizing those most likely to be hospitalized due to comorbidities [94] will alleviate strain and increase resources for those already infected.
+
+    1.3.3. Con:
+    Inequality in access to healthcare is an existing problem [95] for low-income BIPOC communities. Vaccinations would not impact this issue one way or another.
+
+    1.3.4. Con:
+    Marginalized populations are at higher risk of infection [96], and have suffered more [97] from the economic impacts of COVID-19. Mandatory vaccination will alleviate dual harms to these communities.
+
+      1.3.4.1. Pro:
+      Marginalized populations are more likely to be frontline workers [98] who cannot avoid contracting COVID-19 through social distancing or other measures. Mandatory vaccination would protect them.
+
+  1.4. Con:
+  Providing vaccinations to an entire population requires huge amounts of resources which can otherwise be used towards addressing more urgent public health issues.
+
+    1.4.1. Pro:
+    In low-income countries, most people will not receive a vaccination without global assistance [99]. It is unfair for taxpayers in rich countries to have to fund vaccinations for people in other countries.
+
+      1.4.1.1. Con:
+      In an interconnected world like ours, improving the global economy [100] that is currently adversely impacted by the virus is good for the economic health of every country.
+
+        1.4.1.1.1. Pro:
+        A study [101] in January 2021 showed that failure to provide the COVID-19 vaccine in poor nations will result in significant economic costs for wealthy countries.
+
+      1.4.1.2. Con:
+      Without vaccines, countries would have to mandate lockdowns [102], which have a devastating impact on the economies of developing nations.
+
+        1.4.1.2.1. Pro:
+        In low-income countries, lockdowns lead to reduced access to healthcare [103].
+
+    1.4.2. Pro:
+    Instead of spending resources on COVID-19, which predominantly impacts older people, [104] public health resources should be spent on children as they are the future of a country.
+
+      1.4.2.1. Pro:
+      Controlling COVID-19 requires the constant use of resources [105], as booster shots continue to need to be administered.
+
+      1.4.2.2. Con:
+      Without vaccines, schools will not be able to fully re-open [106].
+
+        1.4.2.2.1. Con:
+        COVID-19 has similar hospitalization and death rates as the flu for unvaccinated children, and the flu does not prevent schools from operating.
+
+          1.4.2.2.1.1. Pro:
+          There were 39,205 hospitalizations and 372 deaths [107] for children aged 0–17 that were flu-related in the 2018–2019 season in the US (12 month duration), and there have been about 36,000 hospitalizations [108] and 605 (186+419) deaths [109] that were COVID-19 related in children aged 0–18 in the US between Jan. 14, 2020 and of Oct. 9, 2021 (21 month duration).
+
+            1.4.2.2.1.1.1. Pro:
+            The cumulative hospitalization rate from COVID-19 for children aged 0–18 was 49.7 per 100,000 [110] as of August 14, 2021.
+
+            1.4.2.2.1.1.2. Pro:
+            The US population 18 and under is 72 million
+
+            1.4.2.2.1.1.3. Pro:
+            49.7 * 72,000,000 ≈ 36,000
+
+          1.4.2.2.1.2. Con:
+          The hospitalization and death rate from COVID-19 is markedly higher [111] in adults, who children can infect. It is therefore important to reduce the chances of children contracting COVID-19.
+
+            1.4.2.2.1.2.1. Con:
+            There is no need to mandate child vaccination, since adults are protected by getting their own vaccine.
+
+              1.4.2.2.1.2.1.1. Pro:
+              Vaccination only reduces the likelihood of delta variant transmission by 50 [112]-66 [113]% (p. 28, p. 21).
+
+              1.4.2.2.1.2.1.2. Pro:
+              Vaccines are 95–100% [114] effective in preventing serious COVID-19 infection in adults.
+
+            1.4.2.2.1.2.2. Con:
+            Adults are protected by getting their own vaccine because vaccines are 95–100% effective in preventing serious COVID-19 infection in adults [115].
+
+        1.4.2.2.2. Pro:
+        Schools are vital to economic recovery because most parents will not be able to return to work [116] without the childcare they offer.
+
+        1.4.2.2.3. Pro:
+        Opening schools is vital to long-term economic health, because students, who will comprise the future workforce, will miss out on key learning otherwise (section 4) [117].
+
+          1.4.2.2.3.1. Pro:
+          Social distancing measures which require remote learning disproportionately impact [118] already marginalized children.
+
+        1.4.2.2.4. Con:
+        Adults make up most known cases of COVID-19 to date [119]. There are ways to open schools for children without mandatory vaccination.
+
+          1.4.2.2.4.1. Con:
+          Children would inherently be coming into contact with the adults in their lives, and since children can spread [120] the virus, risks remain.
+
+        1.4.2.2.5. Con:
+        It is currently unknown if the COVID-19 vaccine would be safe for children.
+
+          1.4.2.2.5.1. Pro:
+          By December 2020, the Pfizer vaccine had only been authorized [121] for individuals that were 16 years of age or older.
+
+          1.4.2.2.5.2. Pro:
+          As of December 2020, the Moderna vaccine was only been authorized for individuals who are 18 years of age or older [122].
+
+          1.4.2.2.5.3. Con:
+          In December 2020, trials [123] to test if the vaccines are safe for children began.
+
+            1.4.2.2.5.3.1. Con:
+            It is believed that these trials will not be concluded until 2022 [124], due to barriers such as fewer volunteers, a higher threshold for approval, and the need to attune the dosage so that it is more appropriate for children.
+
+          1.4.2.2.5.4. Con:
+          A vaccine would not necessarily be needed for children, once the adult population, who are more at risk of suffering from COVID-19, are vaccinated
+
+      1.4.2.3. Pro:
+      Investing in child health produces greater aggregate outcomes. (p. 777 [125])
+
+      1.4.2.4. Pro:
+      More children die of diseases other than COVID-19 [126]. We should therefore spend more resources in treating and preventing these diseases than on COVID-19.
+
+        1.4.2.4.1. Pro:
+        Shifting to prioritize the production COVID-19 vaccinations will result in shortages [127] of other vaccines like those for preventable childhood diseases like measles and mumps.
+
+      1.4.2.5. Con:
+      Children might be more vulnerable [128] to the virus than it was initially thought as they can contract and be harmed by the virus.
+
+        1.4.2.5.1. Pro:
+        Pediatric multisystem inflammatory syndrome [129], a condition that impacts children, is likely to be associated with COVID-19 infection.
+
+          1.4.2.5.1.1. Pro:
+          Per week, up to 100 children [130] with PIMS were being hospitalized in the UK.
+
+        1.4.2.5.2. Pro:
+        In the U.S. there was a 40% increase in COVID-19 cases among children [131] in the 2 last weeks of July 2020, compared to the total number of cases before those 2 weeks.
+
+        1.4.2.5.3. Con:
+        A study published in August 2020 that analyzed infections in a children's summer camp, found that contagion rates [132] were up to six times lower than in adults.
+
+        1.4.2.5.4. Pro:
+        Children are more susceptible [133] to the new COVID-19 variant, B117.
+
+    1.4.3. Con:
+    COVID-19 is the most urgent public health issue at the moment, and should therefore have priority.
+
+      1.4.3.1. Pro:
+      The long-term side effects [134] of COVID-19 are so grave, and so much worse than any other public health issues, that mandatory vaccination is a necessity.
+
+      1.4.3.2. Pro:
+      In the US, more people are dying from COVID-19 [135] than from diseases such as cancer or heart conditions. It is therefore justified to utilize resources to prevent the spread of COVID-19.
+
+    1.4.4. Con:
+    While there are economic considerations at play, none are so insurmountable that they should preclude mandatory vaccination.
+
+      1.4.4.1. Pro:
+      Investing in COVID-19 vaccination costs money. But this investment has high returns [136] because if fewer people fell sick, less public health and economic resources are spent long term.
+
+        1.4.4.1.1. Pro:
+        Even with economic considerations, vaccination [137] is a preferable way to stop the spread of COVID-19 because it would lead to faster economic recovery.
+
+        1.4.4.1.2. Pro:
+        An increase in the number of COVID-19 infections results in reduced resources due to the economic loss [138] it causes.
+
+      1.4.4.2. Pro:
+      The total cost required for making and distributing COVID-19 vaccines for the poorest half of the world are the same as the total profits [139] made by world's top ten pharmaceutical companies in four months. Through increased taxation, governments can use this money for public good.
+
+        1.4.4.2.1. Con:
+        Pharmaceutical companies are at the forefront of innovation [140] concerning the development of COVID-19 vaccination. Taxing them heavily can dampen the spirit of competitiveness and slow this development.
+
+        1.4.4.2.2. Pro:
+        Governments have invested [141] massively in pharmaceutical companies developing COVID-19 vaccines. It is therefore legitimate for the government to impose heavy taxes which can be used to fund the distribution of vaccines.
+
+      1.4.4.3. Con:
+      Spending on curbing COVID-19 infections has already seen unprecedented levels of financial borrowing [142].
+
+        1.4.4.3.1. Con:
+        Governments can redirect money from non-urgent projects, such as military spending [143], to fund vaccination.
+
+        1.4.4.3.2. Pro:
+        Poorer countries are not able to engage in fiscal borrowing without long-term damage to their economies [144]. (pg. 2)
+
+        1.4.4.3.3. Con:
+        Vaccines [145] are a way to prevent fiscal borrowing in the future by avoiding more lockdowns that impact businesses.
+
+          1.4.4.3.3.1. Pro:
+          In the UK, lockdowns resulted in a 22% reduction in GDP [146] during the second quarter of 2020 when compared to the final quarter of 2019.
+
+          1.4.4.3.3.2. Pro:
+          Apart from a decrease in economic activity, lockdowns require additional spending to support people who are unemployed [147] due to business closures.
+
+        1.4.4.3.4. Con:
+        Government spending [148] during the pandemic is a way to reduce long-term negative impacts on the economy.
+
+          1.4.4.3.4.1. Pro:
+          A report in September 2020 by UNCTAD [149] suggested that increased fiscal spending is the only way to build resilient economic recovery from COVID-19.
+
+    1.4.5. Con:
+    The surge in COVID-19 cases has overwhelmed hospital systems [150], causing ripple effects that impact other public health issues.
+
+      1.4.5.1. Con:
+      Public health systems are overwhelmed because they are underfunded [151]. The end of the COVID-19 pandemic should not excuse governments from increasing funding and support towards public healthcare.
+
+      1.4.5.2. Pro:
+      In January 2021, hospitals in the US continued to be overwhelmed and strained [152] due to the COVID-19 pandemic.
+
+    1.4.6. Pro:
+    Governments have given billions of taxpayers dollars [153] to different drug companies to make the COVID-19 vaccine, much of which could be wasted if the vaccine doesn't work.
+
+      1.4.6.1. Con:
+      Investment in vaccine development is not wasted because it has already led to medical innovation [154] that will be useful in treating other conditions.
+
+      1.4.6.2. Con:
+      Developing a vaccine involves high costs. Without government investment [155], private companies are not able to undertake such an endeavour.
+
+        1.4.6.2.1. Con:
+        Despite government investment, vaccines developed by private companies are expensive [156] to procure.
+
+      1.4.6.3. Pro:
+      The US alone contributed $12.4 billion [157] to Operation Warp Speed [158].
+
+      1.4.6.4. Con:
+      Trying to develop a vaccine that would increase human immunity to one of the most devastating pandemics [159] in world history should not be considered wasteful.
+
+      1.4.6.5. Con:
+      Many effective vaccines have been successfully produced.
+
+        1.4.6.5.1. Pro:
+        -> See 1.1.5.2.4.
+
+        1.4.6.5.2. Con:
+        -> See 1.1.5.2.4.3.
+
+        1.4.6.5.3. Pro:
+        According to the results from an interim trial, Sputnik V is 91.6% [160] effective against symptomatic COVID-19.
+
+        1.4.6.5.4. Con:
+        The vaccines that have so far been developed are less effective against newer strains. [161]
+
+          1.4.6.5.4.1. Pro:
+          The rollout of the AstraZeneca vaccine in South Africa has been halted [162] due to its limited effectiveness against the mutated strain of COVID-19.
+
+            1.4.6.5.4.1.1. Pro:
+            A study has found that the vaccine is only 10% effective [163] against the South African variant.
+
+          1.4.6.5.4.2. Pro:
+          Vaccines are less effective [164] against the COVID-19 variant, B117.
+
+          1.4.6.5.4.3. Con:
+          It is easier and less time-intensive [165] to adapt the current vaccines so that they are effective against these new strains now that a general vaccine has been made against COVID-19.
+
+            1.4.6.5.4.3.1. Pro:
+            The flu vaccine is updated every year [166], demonstrating that it is both possible and not too difficult to adapt the vaccine as needed.
+
+      1.4.6.6. Pro:
+      The UK government has spent nearly £12bn [167] on the COVID-19 vaccine.
+
+        1.4.6.6.1. Pro:
+        The UK government has invested £100 million [168] to establish a centre to scale up COVID-19 vaccine and gene therapy manufacturing.
+
+  1.5. Pro:
+  The quickest and safest way to develop herd immunity [169] is through a mandatory vaccination policy.
+
+    1.5.1. Con:
+    Even if the supply of COVID-19 vaccines is not an issue, the distribution process would be a "logistical nightmare," [170] which presents a significant challenge.
+
+      1.5.1.1. Pro:
+      Medical and public health experts [171] have expressed concerns about how a policy of mandatory vaccination could be carried out.
+
+        1.5.1.1.1. Pro:
+        Vaccine rollout in the US has faced [172] many setbacks.
+
+      1.5.1.2. Con:
+      There are already places where vaccines [173] have so far been distributed smoothly.
+
+        1.5.1.2.1. Pro:
+        One in three Israelis [174] have been vaccinated after a little more than a month of vaccinations.
+
+          1.5.1.2.1.1. Con:
+          Almost all Palestinians [175] in the Occupied Territories are waiting for their first dose of a COVID-19 vaccination.
+
+        1.5.1.2.2. Con:
+        Due to the lack of resources, hospitals in the US have struggled [176] to distribute the Pfizer and Moderna vaccines.
+
+        1.5.1.2.3. Con:
+        There have been a number of logistical issues [177] impeding the distribution of the vaccine in India.
+
+        1.5.1.2.4. Pro:
+        Turkey's deployment of the vaccine has so far been a success. [178]
+
+        1.5.1.2.5. Pro:
+        West Virginia has vaccinated 84.5% [179] of its population.
+
+        1.5.1.2.6. Pro:
+        Bahrain has had great success [180] in procuring and distributing the vaccine to its people.
+
+      1.5.1.3. Con:
+      Countries can draw upon expertise from various sectors to effectively distribute COVID-19 vaccines [181].
+
+      1.5.1.4. Pro:
+      Some vaccines are required to be stored at ultra-cold temperatures [182], which is difficult and expensive to achieve.
+
+      1.5.1.5. Pro:
+      Some of the COVID-19 vaccines require two doses [183], spaced two weeks apart. This massively stunts global production and increases costs for distributing the vaccine.
+
+        1.5.1.5.1. Pro:
+        A vaccine that requires multiple doses also requires a well established "information system" [184] to determine who has received what dose and when, further increasing costs and logistical problems.
+
+        1.5.1.5.2. Pro:
+        The shortfall in the supply of the vaccine has impeded [185] its rollout in the UK.
+
+    1.5.2. Con:
+    The current dominant COVID-19 strain, Omicron, is significantly more transmissible and generally produces infections that are mild if not asymptomatic according to the CDC [186]. Natural exposure to Omicron increases herd immunity leading public health agencies in countries such as Taiwan [187] and Norway [188] to relax restrictions despite rising cases.
+
+    1.5.3. Pro:
+    Herd immunity is the most effective way to protect all members of a community from an infectious disease.
+
+      1.5.3.1. Pro:
+      Herd immunity is most effective when the maximum number of people are vaccinated.
+
+      1.5.3.2. Pro:
+      Herd immunity protects people who have a legitimate exemption [189] from getting vaccinated from contracting COVID-19.
+
+        1.5.3.2.1. Pro:
+        While herd immunity is not always 100% effective, it has been shown to be extremely effective [190] and important for protecting the small number of individuals who cannot receive a vaccine or do not generate a strong immune response from a vaccine.
+
+      1.5.3.3. Con:
+      Herd immunity is not a foolproof method of disease prevention.
+
+        1.5.3.3.1. Pro:
+        Even in areas with high vaccination rates where herd immunity has been developed, its effectiveness varies [191] based on the people in the community's habits. Changing locations, travelling, or interacting with wide amounts of new people can change the composition of one's "herd" and lower the level of protection against the disease.
+
+        1.5.3.3.2. Con:
+        Herd immunity does not need to be "foolproof" to be a worthwhile endeavor.
+
+          1.5.3.3.2.1. Pro:
+          -> See 1.5.3.2.1.
+
+          1.5.3.3.2.2. Pro:
+          The higher the percentage of those who have achieved immunity, the harder it becomes [192] for a disease to find suitable hosts to spread.
+
+      1.5.3.4. Con:
+      Herd immunity is more efficiently achieved through letting the virus naturally spread as people build up resistance to the disease.
+
+        1.5.3.4.1. Con:
+        Studies [193] show that, even in areas with large numbers of COVID-19 infections, only 10% of the population developed immunity. This means that without vaccination COVID-19 could remain endemic.
+
+          1.5.3.4.1.1. Pro:
+          The preliminary estimated percentage of the population requiring infection to achieve sustainable herd immunity for COVID-19 is around 40-70%. [194]
+
+          1.5.3.4.1.2. Con:
+          These numbers are likely to be an underestimate [195] due to the fact that people with mild infections are not being tested.
+
+        1.5.3.4.2. Con:
+        The human cost of allowing herd immunity to develop through natural infection is too great to bear.
+
+          1.5.3.4.2.1. Pro:
+          Typically, community immunity only results [196] when 93-95% of the population are infected and achieve immunity.
+
+          1.5.3.4.2.2. Pro:
+          The severity of COVID-19 means that allowing natural infection carries a much greater risk of severe disease and death [197]. In the case of other diseases, for which community immunity built up through natural spread, the harm was significantly lower.
+
+            1.5.3.4.2.2.1. Pro:
+            The current case-fatality rate of COVID-19 is roughly 1%. [198] If we are to reach the required threshold for herd immunity i.e. infection of 70% of the global population, more than 54 million people would die.
+
+          1.5.3.4.2.3. Pro:
+          Allowing the natural spread of COVID-19 could overwhelm doctors and medical facilities. [199]
+
+        1.5.3.4.3. Con:
+        The World Health Organization has condemned natural herd immunity [200] as a strategy for fighting COVID-19.
+
+        1.5.3.4.4. Pro:
+        If it turns out that people infected with COVID-19 develop permanent immunity [201], we might achieve herd immunity before we have a vaccination.
+
+          1.5.3.4.4.1. Pro:
+          Sweden, which has never implemented a full-scale lockdown, nor had a mask policy, has had success [202] combatting COVID-19 by allowing it to naturally spread to develop community immunity.
+
+            1.5.3.4.4.1.1. Con:
+            The proportion of Swedish citizens currently carrying COVID-19 antibodies is less than 10% [203], far from the percentage needed for community immunity.
+
+            1.5.3.4.4.1.2. Pro:
+            Sweden's top public health official stated that "the Swedish strategy is working," in response to data that showed a rapid decline [204] in COVID-19 cases and death rates in Sweden.
+
+              1.5.3.4.4.1.2.1. Con:
+              Developing community immunity is not an official goal of the Swedish Public Health Agency. [205]
+
+            1.5.3.4.4.1.3. Con:
+            Sweden has reversed [206] many of its lax policies on account of its relative failure compared to countries that enforced stricter measures.
+
+              1.5.3.4.4.1.3.1. Pro:
+              In July 2020, Sweden had one of the highest death rates [207] per million inhabitants, 564 deaths per million. Comparatively, the U.S. sat at 444 deaths per million.
+
+          1.5.3.4.4.2. Con:
+          Scientists worked at record speed [208] to produce a vaccine for COVID-19 in under a year, well before natural herd immunity could be attained.
+
+          1.5.3.4.4.3. Pro:
+          If most people already develop immunity before a vaccine is developed, the primary beneficiaries of vaccination will be very few.
+
+        1.5.3.4.5. Pro:
+        It would be a waste of resources since already immune and healthy people don't need the vaccine. Over 77.5 million [209] people worldwide have recovered from COVID-19 as of February 2021, and the risk of contracting the virus again is very low. Most of them are now immunized and don't need the vaccine.
+
+          1.5.3.4.5.1. Pro:
+          In a study [210], repeat infections of COVID-19 occurred in less than 1% of the patients included in the trial.
+
+            1.5.3.4.5.1.1. Con:
+            Reinfection tends to have more severe effects [211] than those caused by the first case of COVID-19 infection. In order to avoid this, it is likely that even those who have been infected will seek out the vaccine and will thus need to be catered to. This is a problem given the global vaccine shortfall [212].
+
+          1.5.3.4.5.2. Con:
+          It is unclear whether immunity [213] after a COVID-19 infection lasts more than eight months.
+
+        1.5.3.4.6. Pro:
+        Creating community immunity through mandatory vaccination increases the chances of COVID-19 mutating enough to render the vaccine ineffective.
+
+          1.5.3.4.6.1. Pro:
+          -> See 1.4.6.5.4.
+
+          1.5.3.4.6.2. Pro:
+          When antigenic drift [214] occurs, the body's immune system struggles to recognize and fight the newer virus. This is why people can get the flu more than once, and why the flu vaccine is reviewed and updated yearly.
+
+            1.5.3.4.6.2.1. Con:
+            Vaccines that are constantly updated, such as the seasonal influenza vaccine, still prevent rampant illness [215].
+
+      1.5.3.5. Con:
+      Not every vaccine [216] creates herd immunity.
+
+    1.5.4. Con:
+    The possibility of reinfection has not yet been ruled out and would make attaining herd immunity practically impossible.
+
+      1.5.4.1. Pro:
+      Studies of those who have previously contracted COVID-19 show that most people do not retain the antibodies [217] built up by the body after infection.
+
+        1.5.4.1.1. Con:
+        Regular booster shots would make this point irrelevant, as they could be designed to keep antibodies at a high level. These would arguably need to be required in order for a mandate to be worthwhile.
+
+        1.5.4.1.2. Con:
+        COVID-19 antibodies are not the only measure of immunity. T-cell adaption to COVID-19 may also grant immunity to the disease and scientists have measured stable T-cell buildup [218] in patients who previously contracted COVID-19 without detectable antibodies.
+
+          1.5.4.1.2.1. Pro:
+          A growing scientific consensus suggests that T-cell response is the strongest indicator [219] of long-lasting immunity to COVID-19.
+
+          1.5.4.1.2.2. Pro:
+          Scientists have also measured memory B cells with "hallmarks of [immunity] functionality" [220] in those who have recovered from COVID-19.
+
+        1.5.4.1.3. Pro:
+        Waning antibodies are an early indicator of an inability to create a lasting COVID-19 vaccine. [221]
+
+          1.5.4.1.3.1. Pro:
+          Over a period of 3 months, researchers found a 11.7% decline [222] in COVID-19 neutralizing antibodies in symptomatic COVID-19 patients.
+
+          1.5.4.1.3.2. Con:
+          It is not unusual [223] for the body to have a fading antibody presence over the course of several months.
+
+        1.5.4.1.4. Con:
+        Many people who only develop mild symptoms show a significant level of COVID-19 antibodies [224] over a course of three months.
+
+      1.5.4.2. Pro:
+      The first documented case of COVID-19 reinfection has already occurred [225] in Hong Kong, raising doubts as to the longevity of COVID-19 immunity.
+
+        1.5.4.2.1. Con:
+        The patient's second infection was entirely asymptomatic [226]. The patient's natural immunity may not have prevented reinfection, but it did prevent the disease from affecting his body.
+
+        1.5.4.2.2. Pro:
+        The patient had no detectable COVID-19 antibodies [227] after his contraction of COVID-19.
+
+          1.5.4.2.2.1. Con:
+          The patient developed COVID-19 antibodies after his second infection of COVID-19, leading researchers to have a more positive outlook [228] on the development of long-lasting T-cells that prevent negative symptoms on re-infection.
+
+      1.5.4.3. Con:
+      In current clinical trials with monkeys, several studies have shown a promising strong and long-lasting [229] immune response to COVID-19.
+
+      1.5.4.4. Con:
+      In other coronaviruses, such as Sars-CoV and MERS-CoV, scientists have found immunity was borne in those who contracted the diseases and it lasted for multiple years [230].
+
+      1.5.4.5. Con:
+      -> See 1.5.3.4.5.1.
+
+    1.5.5. Con:
+    Due to growing anti-vaccination sentiment [231], it is unlikely that the government will be able to enforce mandatory vaccinations.
+
+      1.5.5.1. Con:
+      It is enough if all the people who believe in vaccination are vaccinated to achieve herd immunity. There is no need to make vaccination mandatory for those who don't believe in it.
+
+      1.5.5.2. Con:
+      Attaching vaccine requirements to attend schools or daycares have been shown to significantly increase the vaccination rate to herd immunity levels in the US (p. 269 [232]).
+
+        1.5.5.2.1. Pro:
+        Since the implementation of mandatory vaccination requirements in 1981, vaccination levels for school entrants have been 95% higher (p. 270 [233]).
+
+      1.5.5.3. Pro:
+      If people do not wish to vaccinate, they are perfectly at liberty to compromise their own health and wellbeing - their example provides a net good to society, viscerally demonstrating why it is necessary.
+
+        1.5.5.3.1. Pro:
+        Populations who would refuse vaccinations would form the control group allowing us to evaluate the benefits and problems of the vaccines.
+
+      1.5.5.4. Pro:
+      -> See 1.1.6.
+
+      1.5.5.5. Pro:
+      A significant proportion of the global population [234] perceives vaccines as unsafe or unnecessary.
+
+        1.5.5.5.1. Pro:
+        Surveys conducted in July 2020 and August 2020 respectively revealed that nearly one in six Britons [235] and one in three Americans [236] will refuse COVID-19 vaccination.
+
+        1.5.5.5.2. Con:
+        A survey conducted in December 2020 [237] found that 60% of the US population intended to get the vaccine.
+
+      1.5.5.6. Con:
+      To allay fears concerning the vaccine, many politicians [238] are receiving the vaccine on camera.
+
+        1.5.5.6.1. Pro:
+        Social media influencers [239] are being given vaccines as a priority in Indonesia to try and engender public trust in the process.
+
+    1.5.6. Pro:
+    -> See 1.5.5.2.
+
+    1.5.7. Con:
+    To help us decide whether vaccines for COVID-19 should be mandatory, and better understand if it is the right move for society, we need to be looking at the death tolls caused by COVID-19 rather than the confirmed cases of COVID-19.
+
+      1.5.7.1. Pro:
+      COVID-19 is not equally deadly [240] in all regions. Countries, where the death rate due to infection is low, do not need to spend money on vaccination for every member of their population.
+
+    1.5.8. Pro:
+    The COVID-19 pandemic has caused widespread suffering. In order to alleviate these harms, it is critical that a solution be found to the pandemic as quickly as possible.
+
+      1.5.8.1. Pro:
+      COVID-19 has had negative consequences on the economy [241]. This diminishes the well-being of many people by reducing their incomes. Mandatory vaccination will curb the economic downturn from intensifying further and restore well-being by stopping the continued spread of the virus.
+
+        1.5.8.1.1. Con:
+        Marginalized populations are unlikely [242] to feel the effects of the economic recovery without additional policy interventions.
+
+        1.5.8.1.2. Pro:
+        -> See 1.4.2.2.
+
+        1.5.8.1.3. Pro:
+        Social distancing measures, caused by the spread of COVID-19, have had the biggest negative impact [243] on the economy.
+
+        1.5.8.1.4. Con:
+        Investor confidence, a key driver of the economy, was deeply shaken by the pandemic [244] and will recover well past when the pandemic ends.
+
+          1.5.8.1.4.1. Pro:
+          Without substantial economic relief measures [245] from governments, it is unlikely that economies will recover simply by virtue of the pandemic coming to an end.
+
+          1.5.8.1.4.2. Pro:
+          The S&P 500 [246], which is an index used by investors as a benchmark for the overall market, fell by 34% [247] in March 2020.
+
+            1.5.8.1.4.2.1. Con:
+            The US stock market hit a new high [248] in August 2020.
+
+          1.5.8.1.4.3. Con:
+          Stock markets have already begun to show signs of bouncing back [249] and most of them have already recovered from the shock.
+
+            1.5.8.1.4.3.1. Pro:
+            The Chinese economy started to recover [250] from the effects of the virus in December 2020.
+
+            1.5.8.1.4.3.2. Pro:
+            The US stock market hit a new high [251] in August 2020.
+
+            1.5.8.1.4.3.3. Con:
+            The stock market is not a reflection of the health [252] of an economy.
+
+        1.5.8.1.5. Pro:
+        The long-term side effects of COVID-19 may permanently limit [253] the economic output of parts of the workforce. Stopping its spread will limit this damage.
+
+      1.5.8.2. Con:
+      Vaccines are not 100% [254] effective. It is possible for vaccinated individuals to get infected.
+
+        1.5.8.2.1. Con:
+        The chances of dying [255] from a breakthough infection are less than 1 in 58K vs the risk of death from COVID being 11 times [256] greater for the unvaccinated
+
+      1.5.8.3. Pro:
+      COVID-19 disproportionately [257] impacts marginalized groups who already are victims of historic and current injustices. Not vaccinating entails the continuation of suffering for such groups.
+
+        1.5.8.3.1. Con:
+        Marginalization should be solved at the root cause (economics) rather than removing individual rights.
+
+          1.5.8.3.1.1. Con:
+          Solving marginalization is a broader task that will take much more time to solve- in the meanwhile, the immediate harms being faced by marginalized communities must be addressed and mitigated.
+
+        1.5.8.3.2. Pro:
+        COVID-19 has devastated prison populations [258], whose lives are the responsibility of the state.
+
+          1.5.8.3.2.1. Pro:
+          Prisoners cannot employ other prevention measures [259] like social distancing, so a vaccine is their only real defense against the virus.
+
+          1.5.8.3.2.2. Con:
+          In order to protect their inmates from contracting COVID-19 in overcrowded prison settings, prisons have released some prisoners early [260].
+
+          1.5.8.3.2.3. Pro:
+          Prison populations have high numbers of individuals with pre-existing conditions [261] making them high risk for COVID-19.
+
+          1.5.8.3.2.4. Con:
+          Prisoners have access to medical care, but this does not mean the state must be held responsible for protecting them from every disease [262].
+
+        1.5.8.3.3. Con:
+        The same issues impacting [263] marginalized groups now will also impact the deployment of vaccinations [264] to these groups, so it is likely many will not receive vaccinations.
+
+        1.5.8.3.4. Pro:
+        The ripple effects of COVID-19 have disproportionately impacted the homeless population (p. 1 [265]).
+
+        1.5.8.3.5. Con:
+        Vaccination is unlikely to improve the living conditions of marginalized groups, because other key indicators [266], such as access to employment, declined during the pandemic and are unlikely to be restored.
+
+        1.5.8.3.6. Pro:
+        Women and girls have been severely impacted by the ripple effects of the pandemic (p. 2 [267]).
+
+          1.5.8.3.6.1. Pro:
+          The impacts of the COVID-19 global recession will result in a prolonged dip in women’s incomes and labor force participation, with compounded impacts for women already living in poverty (p. 4 [268]).
+
+          1.5.8.3.6.2. Con:
+          Mass vaccinations might not solve these ripple effects without additional economic recovery measures (p. 5 [269]).
+
+          1.5.8.3.6.3. Pro:
+          Women are at higher risk of exposure to the virus because of occupational sex-segregation (p. 10 [270]).
+
+          1.5.8.3.6.4. Pro:
+          In Latin America and the Caribbean, an additional 18 million women will lose regular access to modern contraceptives because of the pandemic (p. 10 [271]).
+
+        1.5.8.3.7. Pro:
+        Marginalized groups are extremely reluctant [272] to take the vaccine. If vaccines are not mandated, many members of this group will continue to suffer from the harms of being infected.
+
+          1.5.8.3.7.1. Con:
+          Given the history of medical racism [273], it is understandable why these marginalized communities might be skeptical of vaccines. Mandating vaccines might increase this distrust.
+
+      1.5.8.4. Con:
+      If vaccines are mandatory and not free, it burdens low-income earners by forcing them to pay from an already low resource pool.
+
+        1.5.8.4.1. Con:
+        Some countries, such as Australia [274], are already considering making the vaccination available for free when it is made.
+
+          1.5.8.4.1.1. Pro:
+          The COVID-19 vaccine will be free [275] for all those residing in the US.
+
+            1.5.8.4.1.1.1. Con:
+            While the vaccine itself is free, there are certain hidden costs [276] (such as the price of administering the vaccine) that could still pose a burden.
+
+          1.5.8.4.1.2. Pro:
+          Norway will be providing the vaccine to its citizens free of charge. [277]
+
+        1.5.8.4.2. Pro:
+        In some places, the government seems to be allowing pharmaceutical companies to decide on prices [278] at which COVID-19 vaccines can be purchased. This could be expensive and unfair prices for many.
+
+          1.5.8.4.2.1. Con:
+          Some countries are considering enacting legislation [279] against profiteering by pharmaceutical companies involved in making COVID-19 vaccines. This would ensure that the vaccines are available at affordable prices.
+
+            1.5.8.4.2.1.1. Pro:
+            -> See 1.4.4.2.2.
+
+        1.5.8.4.3. Pro:
+        Not everyone [280] can afford to pay for vaccines.
+
+  1.6. Pro:
+  Despite a wide variety of attempted measures, COVID-19 has continued to spread at a dangerous rate - vaccines are the best remaining option to protect and improve our lives.
+
+    1.6.1. Con:
+    Social distancing coupled with contact tracing and testing has proven effective [281] at flattening the epidemic curve of COVID-19.
+
+      1.6.1.1. Con:
+      In many poorer countries, it is either not possible or very destructive [282] to enforce measures such as social distancing due to factors such as resource constraints and high population density.
+
+        1.6.1.1.1. Pro:
+        In water-scarce countries like India, washing hands is either not always possible or can exacerbate its water crisis [283].
+
+        1.6.1.1.2. Pro:
+        Some experts hold that areas with highly dense populations with high poverty should be given priority in vaccination due to the destruction that COVID-19 infections can cause in these communities (p. 15 [284]).
+
+      1.6.1.2. Con:
+      These other measures require sustained, long-term adherence [285] to be effective, increasing the risk of infection rates spiking.
+
+        1.6.1.2.1. Pro:
+        People are growing tired [286] of the measures put in place to combat COVID-19. This leads to a lack of adherence and a resurgence in cases.
+
+      1.6.1.3. Con:
+      It is not enough [287] to flatten the curve if we want to reduce the mortality rate and the burden on healthcare systems.
+
+    1.6.2. Pro:
+    Even with perfect employment of social distancing measures, mask wearing, and personal hygiene, there is still a risk of infection [288] without a vaccine.
+
+      1.6.2.1. Pro:
+      -> See 1.1.5.2.4.
+
+      1.6.2.2. Con:
+      Even with a vaccine [289], there is still a risk of infection.
+
+        1.6.2.2.1. Pro:
+        It could be years [290] before everyone is immunized, and even when that happens, it is likely that there will still be people who are infected by COVID-19 and suffer the harms of infection.
+
+          1.6.2.2.1.1. Pro:
+          According to an estimate [291], in the time it takes for the vaccine to reach the majority of Americans, millions of people will be infected by COVID-19.
+
+        1.6.2.2.2. Pro:
+        The European Journal of Epidemiology [292] has just published a report of 68 countries, concluding vaccination is unrelated to increased infection.
+
+        1.6.2.2.3. Pro:
+        The mutation of the virus has been such that booster doses are constantly being recommended [293]. The effectiveness of vaccines thus diminishes over time.
+
+      1.6.2.3. Con:
+      -> See 1.4.6.5.4.
+
+    1.6.3. Con:
+    There has not been perfect enforcement of other measures. New Zealand's example [294] proves that incidences of COVID-19 spread can be virtually eliminated without a vaccine.
+
+      1.6.3.1. Con:
+      It is unlikely [295] that New Zealand's pandemic policy can be replicated in countries with much larger COVID-19 outbreaks that have vastly different demographics.
+
+        1.6.3.1.1. Con:
+        Vietnam [296] has offered a successful example of how a populous and resource-constrained country can successfully contain the spread of COVID-19 without vaccination.
+
+      1.6.3.2. Con:
+      New Zealand's ability to combat COVID-19, like Taiwan's, was in no small part to it being an island [297]. This means that countries that border other countries may never have been able to eliminate the virus.
+
+      1.6.3.3. Pro:
+      New Zealand, Taiwan, Singapore, Iceland and Vietnam have all registered under 35 deaths [298] as of February 2021, showing it is possible to curb the harms of COVID-19 without a vaccine.
+
+    1.6.4. Con:
+    It will take a long time before most of the population can access the vaccines. We will need to continue using other measures [299] to reduce the spread of COVID-19 infections and subsequently save lives.
+
+      1.6.4.1. Pro:
+      -> See 1.6.2.2.1.
+
+      1.6.4.2. Pro:
+      It is projected that it will take up at least the first half of 2021 [300] for everyone in the UK to be vaccinated.
+
+      1.6.4.3. Pro:
+      Experts have warned that one-quarter of the world may not be vaccinated until 2022 [301].
+
+    1.6.5. Con:
+    Medical innovations in the treatment and suppression of COVID-19 symptoms make vaccinations unnecessary.
+
+      1.6.5.1. Pro:
+      Several anti-viral drugs such as Remdesivir [302], have been found to have positive effects on the symptoms of COVID-19.
+
+      1.6.5.2. Pro:
+      For serious COVID-19 cases, dexamethasone has been proven to reduce deaths [303] from those on ventilators and those who needed oxygen assistance.
+
+        1.6.5.2.1. Pro:
+        Low-cost dexamethasone [304] has reduced death by up to one-third in patients with severe respiratory complications from COVID-19 infection.
+
+        1.6.5.2.2. Con:
+        Dexamethasone [305] can help in reducing the mortality rate, but cannot help prevent infections. Therefore, it cannot replace vaccines in ultimately stopping the spread of infections.
+
+      1.6.5.3. Con:
+      For the vast majority of existing treatments, it is still unknown [306] if any have any repeatable positive effect on COVID-19 patients.
+
+      1.6.5.4. Con:
+      Even if treatments can help in reducing the number of serious cases, they cannot prevent [307] infections as vaccines do.
+
+        1.6.5.4.1. Pro:
+        Vaccines are used to prevent infection whereas treatments [308] are usually used when people are already infected.
+
+        1.6.5.4.2. Pro:
+        People will continue to suffer from the symptoms of contracting COVID-19 [309], which can be painful.
+
+    1.6.6. Pro:
+    Vaccines are a proven way to stem the spread of infectious illnesses.
+
+      1.6.6.1. Con:
+      During the SARS outbreak, strong public health measures were able to sufficiently stop the spread of the virus [310] without requiring vaccination.
+
+        1.6.6.1.1. Con:
+        COVID-19 is relatively much more infectious and deadly. This makes it harder [311] for its spread to be curbed without vaccination.
+
+          1.6.6.1.1.1. Pro:
+          The virus that caused the SARS outbreak disappeared [312] following public health measures, but the COVID-19 virus has spread globally despite these measures.
+
+      1.6.6.2. Con:
+      Vaccines for COVID-19 will be the first licensed vaccines to use mRNA technology. [313] Therefore, while vaccines broadly are proven to work, many COVID-19 vaccines will be based on technology that has not been proven to work on a large scale.
+
+        1.6.6.2.1. Con:
+        The mRNA vaccine platform technology, used by the Pfizer/BioNTech [314] vaccine, has been in development for over two decades.
+
+          1.6.6.2.1.1. Con:
+          Regardless, the COVID-19 vaccine is the first [315] licensed mRNA vaccine.
+
+          1.6.6.2.1.2. Pro:
+          mRNA technology was first developed in 1989 [316].
+
+      1.6.6.3. Pro:
+      By 3rd February 2021 [317], over 90% of people in Israel aged over 60 had received their first dose of the vaccine. This led to a 41% drop in confirmed COVID-19 infections in that age group and a 31% drop in hospitalization.
+
+      1.6.6.4. Pro:
+      Vaccines have eradicated diseases in the past, like rinderpest and smallpox (p. 4 [318]).
+
+    1.6.7. Pro:
+    Vaccines are the least harmful way to mitigate the spread of COVID-19.
+
+      1.6.7.1. Con:
+      Currently COVID-19 vaccines don't decrease [319] the spread of virus significantly.
+
+        1.6.7.1.1. Con:
+        Even according to this source, the vaccines do offer [320] significant protection from serious illnesses.
+
+      1.6.7.2. Con:
+      Any COVID-19 vaccine produced is unlikely to undergo the level of clinical testing necessary to confirm it is both safe, and effective.
+
+        1.6.7.2.1. Pro:
+        The rush and competition to bring out a vaccination might mean that important steps in testing for safety are skipped. This leads to a higher likelihood [321] of the vaccine having dangerous consequences.
+
+          1.6.7.2.1.1. Pro:
+          Scientists have expressed concern [322] about the speed with which the COVID-19 vaccine is being developed in Russia because it was not tested in sufficiently large trials.
+
+            1.6.7.2.1.1.1. Pro:
+            According to a poll in December 2020, 59% [323] of Russians were mistrustful of Sputnik V and unwilling to take the vaccine.
+
+            1.6.7.2.1.1.2. Con:
+            The Lancet, an international medical journal, has said that the Sputnik V vaccine appears safe and highly effective [324] in late-stage trials.
+
+          1.6.7.2.1.2. Con:
+          In order to make COVID-19 vaccines as safe as possible, regulatory bodies have set high standards [325] for human trials and require them to involve a wide range of population groups and demographics.
+
+            1.6.7.2.1.2.1. Con:
+            Racial minorities are not adequately represented [326] in human trials that test the safety of COVID-19 vaccines. This exposes them to greater risks from vaccination.
+
+              1.6.7.2.1.2.1.1. Con:
+              This is not specific to the COVID-19 vaccine. Historically [327], racial and ethnic minorities have been underrepresented in clinical trials.
+
+              1.6.7.2.1.2.1.2. Con:
+              There has been a wide range of efforts to increase diversity in the clinical trials for COVID-19.
+
+                1.6.7.2.1.2.1.2.1. Pro:
+                The FDA released recommendations [328] for how industry and agency staff can collect race and ethnicity data in clinical trials.
+
+                1.6.7.2.1.2.1.2.2. Pro:
+                The FDA strongly recommended [329] the inclusion of racial minorities, who are disproportionately affected by the pandemic, in clinical trials (p. 11).
+
+                1.6.7.2.1.2.1.2.3. Pro:
+                Moderna slowed down [330] vaccine trials in order to ensure greater minority representation.
+
+              1.6.7.2.1.2.1.3. Pro:
+              Racial minorities have been infected and harmed by COVID-19 at disproportionately higher rates [331]. This highlights the importance of vaccines for these groups specifically.
+
+            1.6.7.2.1.2.2. Con:
+            Human trials did not include [332] pregnant women, which has raised concerns about the safety of the vaccine for these women.
+
+              1.6.7.2.1.2.2.1. Pro:
+              Due to the potential for harmful side-effects [333], there has been conflicting advice offered to pregnant women about whether or not they should get the COVID-19 vaccine.
+
+          1.6.7.2.1.3. Con:
+          Several different organizations involved in vaccine development are collaborating at an unprecedented scale [334] in order to reduce risks and increase the chances of success.
+
+          1.6.7.2.1.4. Con:
+          Vaccine development for COVID‑19 has resulted in compressed schedules [335] but not a compromise on safety standards and trials.
+
+        1.6.7.2.2. Con:
+        COVID-19 vaccine development draws on a large body of existing knowledge [336] about coronaviruses and potential vaccine side effects.
+
+          1.6.7.2.2.1. Pro:
+          Prior knowledge [337] of the role played by the spike protein in coronavirus pathogenesis helped us understand the mode of infection employed by SARS-CoV-2.
+
+        1.6.7.2.3. Con:
+        -> See 1.1.5.2.4.
+
+        1.6.7.2.4. Con:
+        Corners were not cut in the production of COVID-19 vaccines, and all vaccines have undergone multiple stages [338] of trials.
+
+        1.6.7.2.5. Pro:
+        On average, it can take 10-12 years [339] to produce a safe and effective vaccine.
+
+          1.6.7.2.5.1. Pro:
+          The MMR vaccine [340], which was developed in record time and drew on the groundwork established during WWII, still took four years to develop.
+
+            1.6.7.2.5.1.1. Con:
+            The MMR vaccine was produced with fewer resources, less technology, and less global cooperation than current efforts to produce a COVID-19 vaccine.
+
+          1.6.7.2.5.2. Con:
+          COVID-19 vaccines are the subject of an international effort to develop vaccines, with more resources behind it than most vaccines would see.
+
+      1.6.7.3. Pro:
+      Maintaining social distancing [341] measures long-term could have severe impacts on the global economy and exacerbate harms to marginalized communities.
+
+        1.6.7.3.1. Pro:
+        Distancing and stay-at-home measures increase the risk [342] of intimate partner violence and child abuse.
+
+        1.6.7.3.2. Con:
+        Until there is complete herd immunity to COVID-19, some degree of social distancing will have to occur.
+
+          1.6.7.3.2.1. Con:
+          Attempting to achieve herd immunity without vaccines is unethical [343], as this would entail allowing million to get infected with COVID-19 and thousands to die.
+
+          1.6.7.3.2.2. Con:
+          Achieving herd immunity to COVID-19 without [344] a vaccine would be incredibly difficult, and so mandatory vaccination is the quickest way out of mandatory social distancing.
+
+        1.6.7.3.3. Con:
+        Technology and social innovations can help mitigate [345] the harms of social distancing.
+
+          1.6.7.3.3.1. Con:
+          Due to a lack of resources, it is very difficult to implement technological solutions such as virtual education [346] in poor countries. (pg. 12)
+
+        1.6.7.3.4. Pro:
+        Social distancing measures have an especially devastating impact [347] on lives and livelihoods in developing countries.
+
+      1.6.7.4. Pro:
+      Critically we just need to ensure the vaccine does not disrupt the ability to produce the next generation (via births). So then as long as we live long enough to raise that generation, then hopefully the vaccine will have done its job (we the species live on).
+
+      1.6.7.5. Con:
+      Vaccines can have harmful side-effects that compromise their effectiveness.
+
+        1.6.7.5.1. Pro:
+        Any potential long-term side effects of the vaccine may not become apparent for many years.
+
+          1.6.7.5.1.1. Con:
+          Most side-effects appear very quickly [348], and so it is unlikely that there will be a large amount of people who experience long-term side effects.
+
+        1.6.7.5.2. Pro:
+        Severe allergic reactions [349] to the COVID-19 vaccine have been documented.
+
+          1.6.7.5.2.1. Pro:
+          Immediate allergic reactions [350], which are not severe but can cause swelling, hives, and wheezing, have been documented in individuals who received the COVID-19 vaccine.
+
+            1.6.7.5.2.1.1. Con:
+            Allergic reactions can occur as a response to other vaccines too, such as the MMR vaccine [351], which has been made effectively mandatory [352] in some places.
+
+          1.6.7.5.2.2. Con:
+          The symptoms of these allergic reactions were promptly treated. [353]
+
+        1.6.7.5.3. Pro:
+        -> See 1.6.7.2.1.2.2.1.
+
+        1.6.7.5.4. Con:
+        The CDC has found that the benefit of vaccines outweighs [354] any potential side-effects.
+
+Sources:
+[1] https://home.crin.org/issues/bodily-integrity
+[2] https://www.legislation.vic.gov.au/in-force/acts/public-health-and-wellbeing-act-2008/043
+[3] https://jme.bmj.com/content/medethics/18/4/197.full.pdf
+[4] https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/herd-immunity-and-coronavirus/art-20486808
+[5] https://www.law.cornell.edu/supremecourt/text/197/11
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5141457/
+[7] https://www.aclu.org/other/your-right-religious-freedom
+[8] https://www.britannica.com/event/Roe-v-Wade
+[9] https://theconversation.com/why-vaccines-are-less-effective-in-the-elderly-and-what-it-means-for-covid-19-141971
+[10] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2569983/
+[11] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2569983/
+[12] https://www.ncbi.nlm.nih.gov/books/NBK222835/
+[13] https://www.nytimes.com/2020/03/15/world/europe/spain-coronavirus.html
+[14] https://timesofindia.indiatimes.com/india/why-covid-19-hasnt-been-the-only-killer-during-lockdown/articleshow/76438147.cms
+[15] http://docstore.ohchr.org/SelfServices/FilesHandler.ashx?enc=6QkG1d%2fPPRiCAqhKb7yhsrdB0H1l5979OVGGB%2bWPAXhNI9e0rX3cJImWwe%2fGBLmVrGmT01On6KBQgqmxPNIjrLLdefuuQjjN19BgOr%2fS93rKPWbCbgoJ4dRgDoh%2fXgwn
+[16] https://www.npr.org/2021/11/19/1057182839/austria-lockdown-covid-vaccination-mandatory-mandate?t=1637784685100
+"Austria, a country of 8.9 million, has one of the lowest vaccination rates in Western Europe — only 65.7% of the population are fully vaccinated.
+
+Despite all the persuasion and campaigns, too few people have decided to get vaccinated, Schallenberg said, leaving the country no other choice but to introduce mandatory vaccinations in February.
+
+The chancellor said the details would be finalized in the coming weeks but those who continued to refuse to get vaccinated would have to expect to be fined. In addition, booster shots are now available to all vaccinated individuals starting four months after their second dose."
+[17] https://www.politicalsciencenotes.com/essay/state/theories-on-the-origin-of-state-essay-theories-political-science/1513
+"The net result of this changeover was that the people gained security of life and property and social security, but lost the natural liberty which they had been enjoying in the state of nature.
+
+The crux of the social contract theory is that men create government for the purpose of securing their pre-existing natural rights – that the right come first, that the government is created to protect these rights."
+[18] https://www.aei.org/carpe-diem/health-care-is-a-commodity-not-a-right-and-markets-not-government-are-the-solution-in-medical-care/
+[19] https://publicintegrity.org/health/free-market-ideology-doesnt-work-for-health-care/
+[20] https://en.wikipedia.org/wiki/Legal_status_of_methamphetamine
+[21] https://www.qantas.com/au/en/travel-info/specific-needs/fitness-to-fly.html
+[22] https://www.who.int/ith/2016-ith-county-list.pdf
+[23] https://theconversation.com/can-the-government-or-my-employer-force-me-to-get-a-covid-19-vaccine-under-the-law-144739
+[24] https://www.varsitytutors.com/en/school-at-home?ad_test=homeschool-registration-1-1250&geoid=2840&vtsubject=homeschool&network=g&matchtype=b&keyword=%2Bhomeschool&creative=472506447578&device=c&devicemodel=&placement=&position=&capaignid=11348624064&adgroupid=112954925484&loc_physical_ms=9071151&loc_interest_ms=9030954&keywordId=kwd-143204404&zip=14201&accountid=%7B425-539-1749%7D&gclid=CjwKCAiA9bmABhBbEiwASb35Vwh_ac_PuBPc-jq4nrlUAPQoJoJUlSG_Z3-z_nyGX9mJxfLlCPZiVBoCTW4QAvD_BwE
+[25] https://www.schengenvisainfo.com/news/covid-19-vaccine-set-to-become-worlds-most-powerful-passport-in-2021/
+[26] https://www.schengenvisainfo.com/news/covid-19-vaccine-set-to-become-worlds-most-powerful-passport-in-2021/
+[27] https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200306-sitrep-46-covid-19.pdf?sfvrsn=96b04adf_4#:~:text=For%20COVID%2D19%2C,infections%2C%20requiring%20ventilation.
+[28] https://en.wikipedia.org/wiki/Rubella_vaccine
+[29] https://www.scientificamerican.com/article/the-risks-of-rushing-a-covid-19-vaccine/
+[30] https://www.scientificamerican.com/article/the-risks-of-rushing-a-covid-19-vaccine/
+[31] https://www.chemistryworld.com/news/what-are-the-risks-of-fast-tracking-a-covid-19-vaccine/4012130.article
+[32] https://apnews.com/article/fact-checking-afs:Content:9792931264
+[33] https://www.chemistryworld.com/news/what-are-the-risks-of-fast-tracking-a-covid-19-vaccine/4012130.article
+[34] https://www.statnews.com/2020/12/19/a-side-by-side-comparison-of-the-pfizer-biontech-and-moderna-vaccines/
+[35] https://www.sfchronicle.com/health/article/With-coronavirus-antibodies-fading-fast-focus-15414533.php
+[36] https://www.bbc.co.uk/news/health-54902908
+[37] https://www.dw.com/en/coronavirus-how-effective-are-the-chinese-vaccines/a-56370802
+[38] https://www.bbc.com/future/article/20210114-covid-19-how-effective-is-a-single-vaccine-dose
+[39] https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker
+[40] https://www.rutherford.org/publications_resources/john_whiteheads_commentary/the_draft_unwise_immoral_and_unconstitutional
+[41] https://worldpopulationreview.com/country-rankings/countries-with-mandatory-military-service
+[42] https://worldpopulationreview.com/country-rankings/countries-with-mandatory-military-service
+[43] https://www.tribuneindia.com/news/nation/treat-them-as-martyrs-%C2%A0ima-publishes-list-of-382-doctors-who-died-of-covid-142103
+[44] https://www.gavi.org/vaccineswork/natural-immunity-covid-19-may-be-long-lasting
+[45] https://www.medscape.com/viewarticle/943154
+[46] https://www.thelancet.com/journals/laninf/article/PIIS1473-3099\(20\)30458-8/fulltext
+[47] https://fullfact.org/online/norway-vaccine-deaths/
+[48] https://fullfact.org/online/norway-vaccine-deaths/
+[49] https://theconversation.com/a-majority-of-vaccine-skeptics-plan-to-refuse-a-covid-19-vaccine-a-study-suggests-and-that-could-be-a-big-problem-137559
+[50] https://www.forbes.com/sites/niallmccarthy/2020/08/10/a-third-of-americans-unwilling-to-get-covid-19-vaccine-infographic/#559be1e67309
+[51] https://www.bbc.co.uk/news/uk-scotland-49881317
+[52] https://www.currentaffairs.org/2017/05/fines-and-fees-are-inherently-unjust
+[53] https://www.nature.com/articles/d41586-019-03642-w
+[54] https://en.wikipedia.org/wiki/Timeline_of_human_vaccines
+[55] https://journalofethics.ama-assn.org/article/school-vaccination-laws/2003-11
+[56] https://journalofethics.ama-assn.org/article/mandatory-vaccination-legal-time-epidemic/2006-04
+[57] https://www.cdc.gov/flu/professionals/healthcareworkers.htm
+"Vaccination coverage was highest (94.4%) among health care personnel working in settings where vaccination was required"
+[58] https://www.science.org/content/article/dengue-vaccine-fiasco-leads-criminal-charges-researcher-philippines
+[59] https://www.vaccinestoday.eu/stories/mandatory-vaccination-work-europe/comment-page-1/
+[60] https://journalofethics.ama-assn.org/article/school-vaccination-laws/2003-11
+[61] https://www.livescience.com/first-coronavirus-vaccine-safety.html
+[62] https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1318-5
+[63] https://www.bbc.co.uk/news/uk-scotland-49881317
+[64] https://www.bbc.com/news/health-55229894
+[65] https://www.washingtonpost.com/world/eu-coronavirus-vaccines-cheaper-than-united-states/2020/12/18/06677e34-4139-11eb-b58b-1623f6267960_story.html
+[66] https://www.npr.org/sections/health-shots/2020/08/06/899869278/prices-for-covid-19-vaccines-are-starting-to-come-into-focus
+[67] https://www.npr.org/sections/health-shots/2020/08/06/899869278/prices-for-covid-19-vaccines-are-starting-to-come-into-focus
+[68] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30763-7/fulltext
+[69] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)30763-7/fulltext
+[70] https://www.npr.org/sections/health-shots/2020/08/06/899869278/prices-for-covid-19-vaccines-are-starting-to-come-into-focus
+[71] https://www.investopedia.com/articles/economics/11/intro-supply-demand.asp
+[72] https://www.politico.eu/article/the-ultimate-geopolitical-game-distributing-a-coronavirus-vaccine/
+[73] https://www.wider.unu.edu/publication/debate-around-intellectual-property-rights-and-covid-19-vaccine
+[74] https://launchandscalefaster.org/covid-19
+[75] https://theconversation.com/no-country-is-an-island-collective-approach-to-covid-19-vaccines-is-the-only-way-to-go-153200
+[76] https://theconversation.com/no-country-is-an-island-collective-approach-to-covid-19-vaccines-is-the-only-way-to-go-153200
+[77] https://www.politico.eu/article/the-ultimate-geopolitical-game-distributing-a-coronavirus-vaccine/
+[78] https://www.reuters.com/article/health-coronavirus-who-vaccines/exclusive-who-vaccine-scheme-risks-failure-leaving-poor-countries-no-covid-shots-until-2024-idINL8N2IV50J
+[79] https://www.thehindubusinessline.com/news/rich-nations-stockpile-covid-19-vaccine-leaving-little-or-nothing-for-poor-countries-study/article33305194.ece
+[80] https://www.politico.eu/article/the-ultimate-geopolitical-game-distributing-a-coronavirus-vaccine/
+[81] https://www.politico.eu/article/the-ultimate-geopolitical-game-distributing-a-coronavirus-vaccine/
+[82] https://www.nature.com/articles/d41586-020-02450-x
+[83] http://oxfordpoliticalreview.com/2021/01/11/chinas-vaccine-soft-power-play/
+[84] https://economictimes.indiatimes.com/wealth/plan/are-wealthy-people-morally-obliged-to-give-it-back-to-society/articleshow/65910126.cms
+[85] https://www.cdc.gov/coronavirus/2019-ncov/vaccines/recommendations/hcp.html
+[86] https://www.who.int/ethics/publications/ethics-covid-19-resource-allocation.pdf?ua=1
+[87] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
+[88] https://medicalxpress.com/news/2020-07-covid-vaccine.html
+[89] https://medicalxpress.com/news/2020-07-covid-vaccine.html
+[90] https://medicalxpress.com/news/2020-07-covid-vaccine.html
+[91] https://www.irishtimes.com/news/world/us/doctor-who-gave-nearly-expired-vaccine-to-his-wife-fired-and-charged-with-theft-1.4482292
+[92] https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html
+[93] https://www.vox.com/2020/7/15/21317776/covid-19-coronavirus-florida-arizona-texas-california-hospitals
+[94] https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/evidence-table.html
+[95] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
+[96] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
+[97] https://www.brookings.edu/blog/up-front/2020/08/13/the-covid-19-public-health-and-economic-crises-leave-vulnerable-populations-exposed/
+[98] https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html
+[99] https://www.who.int/news-room/detail/15-07-2020-more-than-150-countries-engaged-in-covid-19-vaccine-global-access-facility
+[100] https://www.bloomberg.com/news/articles/2020-05-23/fate-of-global-economy-rests-more-than-ever-on-finding-vaccine
+[101] https://www.nytimes.com/2021/01/23/business/coronavirus-vaccines-global-economy.html
+[102] https://www.scmp.com/week-asia/opinion/article/3077552/why-coronavirus-lockdowns-will-not-be-easy-developing-countries
+[103] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)31089-8/fulltext
+[104] https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html
+[105] https://acl.gov/covid19/vaccination-and-booster-resources-our-networks
+[106] https://www.scientificamerican.com/article/schools-have-no-good-options-for-reopening-during-covid-19/
+[107] https://www.cdc.gov/flu/about/burden/2018-2019.html
+[108] https://www.cdc.gov/mmwr/volumes/70/wr/mm7036e2.htm
+[109] https://data.cdc.gov/NCHS/Provisional-COVID-19-Deaths-Focus-on-Ages-0-18-Yea/nr4s-juj3
+[110] https://www.cdc.gov/mmwr/volumes/70/wr/mm7036e2.htm
+[111] https://www.webmd.com/lung/news/20210215/covid-death-risk-is-35-times-that-of-influenza
+[112] https://spiral.imperial.ac.uk/bitstream/10044/1/90800/2/react1_r13_final_preprint_final.pdf
+[113] https://www.medrxiv.org/content/10.1101/2021.08.12.21261991v1.full.pdf
+[114] https://www.yalemedicine.org/news/covid-19-vaccine-comparison
+[115] https://www.yalemedicine.org/news/covid-19-vaccine-comparison
+[116] https://www.nytimes.com/2020/07/02/business/covid-economy-parents-kids-career-homeschooling.html
+[117] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7162753/
+[118] https://blogs.worldbank.org/education/tackling-inequity-education-during-and-after-covid-19
+[119] https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children.html
+[120] https://www.ecdc.europa.eu/en/covid-19/questions-answers/questions-answers-school-transmission
+[121] https://www.connecticutchildrens.org/coronavirus/when-will-the-covid-19-vaccine-be-available-for-kids-and-will-it-be-safe-for-your-family/#:~:text=What%20ages%20has%20the%20COVID,kids%20–%20more%20on%20that%20below.
+[122] https://www.connecticutchildrens.org/coronavirus/when-will-the-covid-19-vaccine-be-available-for-kids-and-will-it-be-safe-for-your-family/#:~:text=What%20ages%20has%20the%20COVID,kids%20–%20more%20on%20that%20below.
+[123] https://www.bloomberg.com/news/articles/2021-01-19/kids-sign-up-for-vaccine-trials-in-next-step-to-conquer-covid
+[124] https://www.bloomberg.com/news/articles/2021-01-19/kids-sign-up-for-vaccine-trials-in-next-step-to-conquer-covid
+[125] https://www.who.int/bulletin/volumes/83/10/777.pdf?mod=article_inline
+[126] https://www.who.int/gho/child_health/mortality/causes/en/
+[127] https://www.nature.com/articles/d41586-020-01063-8
+[128] https://www.wsj.com/articles/latest-research-points-to-children-carrying-transmitting-coronavirus-11596978001
+[129] https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/mis-c.html
+[130] https://www.theguardian.com/world/2021/feb/05/up-to-100-uk-children-a-week-hospitalised-with-rare-post-covid-disease
+[131] https://www.wsj.com/articles/latest-research-points-to-children-carrying-transmitting-coronavirus-11596978001
+[132] https://english.elpais.com/society/2020-08-26/major-coronavirus-study-in-spanish-summer-camps-shows-low-transmission-among-children.html
+[133] https://www.bmj.com/content/371/bmj.m4944
+[134] https://www.theatlantic.com/health/archive/2020/08/long-haulers-covid-19-recognition-support-groups-symptoms/615382/
+[135] https://www.businessinsider.com/chart-us-weekly-coronavirus-deaths-compared-heart-disease-cancer-flu-2020-4
+[136] https://www.borgenmagazine.com/vaccines-in-developing-countvaccines-in-developing-countries/
+[137] https://www.worldbank.org/en/news/press-release/2021/01/05/global-economy-to-expand-by-4-percent-in-2021-vaccine-deployment-and-investment-key-to-sustaining-the-recovery
+[138] https://www.nature.com/articles/s41598-020-73949-6
+[139] https://www.oxfam.org/en/press-releases/vaccinating-poorest-half-humanity-against-coronavirus-could-cost-less-four-months
+[140] https://www.bio.org/policy/human-health/vaccines-biodefense/coronavirus
+[141] https://www.nytimes.com/2020/03/18/opinion/coronavirus-vaccine-cost.html
+[142] https://www.bbc.co.uk/news/business-52663523
+[143] https://www.nature.com/articles/d41586-020-02460-9
+[144] https://www.odi.org/sites/odi.org.uk/files/resource-documents/fiscalstimulus_covid_final.pdf
+[145] https://www.bbc.com/news/business-55161094
+[146] https://www.instituteforgovernment.org.uk/explainers/cost-coronavirus
+[147] https://www.instituteforgovernment.org.uk/explainers/cost-coronavirus
+[148] https://theconversation.com/the-uk-governments-covid-spending-may-lead-to-inflation-150405
+[149] https://unctad.org/press-material/bold-public-spending-only-way-recover-better-covid-19-says-unctad-report
+[150] https://www.who.int/news-room/detail/01-06-2020-covid-19-significantly-impacts-health-services-for-noncommunicable-diseases
+[151] https://www.coe.int/en/web/commissioner/-/learning-from-the-pandemic-to-better-fulfil-the-right-to-health
+[152] https://www.scientificamerican.com/article/covid-overwhelmed-hospitals-strain-staff-and-hope-to-avoid-rationing-care1/
+[153] https://economictimes.indiatimes.com/news/international/business/corporate-insiders-pocket-a-billion-dollars-in-rush-for-coronavirus-vaccine/articleshow/77180940.cms
+[154] https://www.franklintempleton.co.uk/investor/article?contentPath=html/ftthinks/common/equity/biotechnology-innovation-during-covid-19.html
+[155] https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1438
+[156] https://www.theguardian.com/world/2020/nov/16/latest-moderna-vaccine-success-is-good-news-but-high-price-may-restrict-access
+[157] https://time.com/5921360/operation-warp-speed-vaccine-spending/
+[158] https://www.gao.gov/products/GAO-21-319
+[159] https://www.express.co.uk/life-style/health/1278717/coronavirus-is-covid-19-worst-pandemic-history-spanish-flu-swine-flu
+[160] https://edition.cnn.com/2021/02/02/health/russia-sputnik-v-phase-3-intl/index.html
+[161] https://www.cnbc.com/2021/01/21/dr-fauci-says-covid-vaccines-appear-to-be-less-effective-against-some-new-strains.html
+[162] https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411
+[163] https://www.theguardian.com/world/2021/feb/08/oxford-covid-vaccine-10-effective-south-african-variant-study?CMP=fb_gu&utm_medium=Social&utm_source=Facebook&fbclid=IwAR1RdZ_rZexL0-k1IYdg5FPRa3DzRi3Zer-BwplfvSeevWHJcLTOoEcgCgs#Echobox=1612777545
+[164] https://www.irishexaminer.com/world/arid-40218944.html
+[165] https://www.technologyreview.com/2021/01/13/1016098/moderna-variant-coronavirus-vaccine-update/
+[166] https://www.nature.com/articles/d41586-021-00241-6
+[167] https://www.ft.com/content/58b11945-71b1-4f96-b389-695e162642fb
+[168] https://www.europeanpharmaceuticalreview.com/news/124579/uk-government-invests-100-million-into-covid-19-vaccine-manufacturing/
+[169] https://www.vaccines.gov/basics/work/protection
+[170] https://www.inquirer.com/health/coronavirus/vaccine-covid-philadelphia-cdc-distribution-doses-20200814.html
+[171] https://www.bbc.co.uk/news/uk-scotland-49881317
+[172] https://fortune.com/2021/01/31/covid-vaccine-us-rollout-problems-coronavirus-vaccines-jumping-line-not-taking-data/
+[173] https://www.wsj.com/articles/covid-19-vaccine-rollout-goes-smoothly-in-connecticut-11610211604
+[174] https://www.theguardian.com/world/2021/jan/31/israel-covid-vaccination-data-offers-hope-exit-pandemic
+[175] https://www.nytimes.com/2021/02/04/world/middleeast/israel-palestinians-vaccine.html
+[176] https://www.nytimes.com/2020/12/31/health/vaccine-distribution-delays.html
+[177] https://www.nationalheraldindia.com/india/covid-19-the-logistic-challenges-of-vaccine-distribution-in-india
+[178] https://www.aa.com.tr/en/health/turkey-s-covid-19-vaccination-goes-on-at-full-speed/2114249
+[179] https://www.nytimes.com/2021/01/14/us/politics/coronavirus-vaccine-national-guard.html
+[180] https://www.reuters.com/article/health-coronavirus-bahrain-int-idUSKBN29X1EB
+[181] https://theconversation.com/vaccines-are-here-but-how-will-we-get-them-to-billions-of-people-151132
+[182] https://jacobinmag.com/2020/12/socialism-vaccine-capitalism-distribution
+[183] https://www.kiro7.com/news/trending/coronavirus-what-happens-if-second-dose-your-covid-19-vaccine-is-delayed/ODJOHSNBDJGPTHQ2DNAKAGRC6E/
+[184] https://medicalxpress.com/news/2020-07-covid-vaccine.html
+[185] https://www.bbc.com/news/uk-55576788
+[186] https://www.cdc.gov/coronavirus/2019-ncov/variants/omicron-variant.html
+[187] https://www.taipeitimes.com/News/front/archives/2022/04/08/2003776214
+[188] https://www.fhi.no/en/news/2022/current-recommendations-for-covid-19/
+[189] https://www.vaccines.gov/basics/work/protection
+[190] https://www.vaccines.gov/basics/work/protection
+[191] https://www.globalhealthnow.org/2019-12/myth-about-herd-immunity
+[192] https://www.vaccines.gov/basics/work/protection
+[193] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7336129
+[194] https://www.theatlantic.com/health/archive/2020/07/herd-immunity-coronavirus/614035/
+[195] https://www.bmj.com/content/370/bmj.m3364
+[196] https://www.globalhealthnow.org/2019-12/myth-about-herd-immunity
+[197] https://www.jhsph.edu/covid-19/articles/achieving-herd-immunity-with-covid19.html
+[198] https://www.theatlantic.com/health/archive/2020/07/herd-immunity-coronavirus/614035/
+[199] https://www.jhsph.edu/covid-19/articles/achieving-herd-immunity-with-covid19.html
+[200] https://www.who.int/docs/default-source/coronaviruse/transcripts/who-audio-emergencies-coronavirus-press-conference-11may2020.pdf?sfvrsn=4f78bd0_0
+[201] https://www.nature.com/articles/d41586-020-02278-5
+[202] https://www.medpagetoday.com/infectiousdisease/covid19/87812
+[203] https://www.reuters.com/article/us-health-coronavirus-sweden-strategy/swedish-antibody-study-shows-long-road-to-immunity-as-covid-19-toll-mounts-idUSKBN22W2YC
+[204] https://www.reuters.com/article/us-health-coronavirus-sweden-strategy/swedish-epidemiology-boss-says-questioned-covid-19-strategy-seems-to-be-working-idUSKCN24M25L
+[205] https://fortune.com/2020/07/16/sweden-covid-strategy-herd-immunity-elusive/
+[206] https://www.irishtimes.com/news/world/europe/sweden-continues-u-turn-on-pandemic-as-death-toll-rises-1.4477259
+[207] https://www.usatoday.com/story/opinion/2020/07/21/coronavirus-swedish-herd-immunity-drove-up-death-toll-column/5472100002/
+[208] https://www.sciencemag.org/news/2020/01/scientists-are-moving-record-speed-create-new-coronavirus-vaccines-they-may-come-too
+[209] https://www.statista.com/statistics/1087466/covid19-cases-recoveries-deaths-worldwide/
+[210] https://www.nature.com/articles/d41586-021-00071-6
+[211] https://www.aa.com.tr/en/latest-on-coronavirus-outbreak/covid-19-reinfection-may-hit-more-severely-expert/2065608
+[212] https://www.business-standard.com/article/current-affairs/world-coronavirus-dispatch-no-easy-fix-for-global-vaccine-shortage-121051600344_1.html
+[213] https://www.healthline.com/health-news/how-long-does-immunity-last-after-covid-19-what-we-know#What-we-currently-know-about-COVID-19-immunity
+[214] https://www.cdc.gov/flu/about/viruses/change.htm
+[215] https://www.cdc.gov/flu/season/faq-flu-season-2019-2020.htm
+[216] https://www.cdc.gov/vaccines/hcp/vis/vis-statements/hep-b.html
+[217] https://www.sfchronicle.com/health/article/With-coronavirus-antibodies-fading-fast-focus-15414533.php
+[218] https://blogs.sciencemag.org/pipeline/archives/2020/07/15/new-data-on-t-cells-and-the-coronavirus
+[219] https://www.theatlantic.com/ideas/archive/2020/07/could-covid-19-immunity-really-disappear-months/614377/
+[220] https://www.healthline.com/health-news/how-long-does-immunity-last-after-covid-19-what-we-know#What-we-currently-know-about-COVID-19-immunity
+[221] https://www.sfchronicle.com/health/article/With-coronavirus-antibodies-fading-fast-focus-15414533.php
+[222] https://www.sfchronicle.com/health/article/With-coronavirus-antibodies-fading-fast-focus-15414533.php
+[223] https://www.theatlantic.com/ideas/archive/2020/07/could-covid-19-immunity-really-disappear-months/614377/
+[224] https://www.healthline.com/health-news/how-long-does-immunity-last-after-covid-19-what-we-know#What-we-currently-know-about-COVID-19-immunity
+[225] https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html
+[226] https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html
+[227] https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html
+[228] https://www.nytimes.com/2020/08/24/health/coronavirus-reinfection.html
+[229] https://www.theatlantic.com/ideas/archive/2020/07/could-covid-19-immunity-really-disappear-months/614377/
+[230] https://www.nature.com/articles/s41577-020-00436-4
+[231] https://www.theguardian.com/world/2018/dec/21/rightwing-populists-ride-wave-of-mistrust-of-vaccine-science
+[232] https://www.cdc.gov/vaccines/imz-managers/guides-pubs/downloads/vacc_mandates_chptr13.pdf\]
+[233] https://www.cdc.gov/vaccines/imz-managers/guides-pubs/downloads/vacc_mandates_chptr13.pdf
+[234] https://www.imperial.ac.uk/news/203893/largest-global-vaccine-confidence-survey-reveals/
+[235] https://www.theguardian.com/media/2020/jul/07/almost-one-in-six-britons-say-would-refuse-covid-19-vaccine
+[236] https://www.statnews.com/pharmalot/2020/08/10/covid19-coronavirus-pandemic-vaccine-congress-remdesivir/
+[237] https://www.pewresearch.org/science/2020/12/03/intent-to-get-a-covid-19-vaccine-rises-to-60-as-confidence-in-research-and-development-process-increases/
+[238] https://www.theguardian.com/us-news/2020/dec/21/joe-biden-coronavirus-vaccine-covid-public
+[239] https://www.nbcnews.com/tech/social-media/instagram-influencers-are-vaccine-priority-wary-indonesia-rcna226
+[240] https://www.nature.com/articles/d41586-020-01738-2
+[241] https://www.bbc.com/news/business-51706225
+[242] https://www.globalcitizen.org/en/content/canada-economy-marginalized-communities-covid/
+[243] https://coronavirus.jhu.edu/from-our-experts/the-unequal-cost-of-social-distancing
+[244] https://www.worldbank.org/en/topic/competitiveness/publication/global-investment-competitiveness-report-2019-2020
+[245] https://theconversation.com/ending-lockdown-wont-save-the-economy-heres-how-the-government-can-aid-recovery-137553
+[246] https://www.thebalance.com/what-is-the-sandp-500-3305888#:~:text=The%20S%26P%20500%20is%20a,all%20other%20investments%20are%20compared.
+[247] https://voxeu.org/article/financial-markets-and-news-about-coronavirus
+[248] https://www.bbc.com/news/business-53745009
+[249] https://www.bbc.co.uk/news/business-51811972
+[250] https://www.hellenicshippingnews.com/chinas-economic-growth-to-bolster-global-recovery-from-covid-19/
+[251] https://www.bbc.com/news/business-53745009
+[252] https://www.bloomberg.com/opinion/articles/2020-10-27/stock-market-is-not-the-economy-by-any-yardstick
+[253] https://www.theatlantic.com/health/archive/2020/08/long-haulers-covid-19-recognition-support-groups-symptoms/615382/
+[254] https://www.cbsnews.com/amp/news/coronavirus-covid-breakthrough-cases-vaccine/
+[255] https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html
+[256] https://www.usnews.com/news/health-news/articles/2021-09-13/death-from-covid-11-times-more-likely-if-youre-unvaccinated-study
+[257] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205696/
+[258] https://eji.org/news/covid-19s-impact-on-people-in-prison/
+[259] https://eji.org/news/covid-19s-impact-on-people-in-prison/
+[260] https://www.nbcnews.com/news/us-news/more-2-000-new-jersey-inmates-released-slow-spread-coronavirus-n1246388
+[261] https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5219
+[262] https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/rights-of-prisoners
+[263] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205696/
+[264] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424104/
+[265] https://nlchp.org/wp-content/uploads/2020/03/COVID-19-Statement.pdf
+[266] https://www.globalcitizen.org/en/content/canada-economy-marginalized-communities-covid/
+[267] https://www.un.org/sexualviolenceinconflict/wp-content/uploads/2020/06/report/policy-brief-the-impact-of-covid-19-on-women/policy-brief-the-impact-of-covid-19-on-women-en-1.pdf
+[268] https://www.un.org/sexualviolenceinconflict/wp-content/uploads/2020/06/report/policy-brief-the-impact-of-covid-19-on-women/policy-brief-the-impact-of-covid-19-on-women-en-1.pdf
+[269] https://www.un.org/sexualviolenceinconflict/wp-content/uploads/2020/06/report/policy-brief-the-impact-of-covid-19-on-women/policy-brief-the-impact-of-covid-19-on-women-en-1.pdf
+[270] https://www.un.org/sexualviolenceinconflict/wp-content/uploads/2020/06/report/policy-brief-the-impact-of-covid-19-on-women/policy-brief-the-impact-of-covid-19-on-women-en-1.pdf
+[271] https://www.un.org/sexualviolenceinconflict/wp-content/uploads/2020/06/report/policy-brief-the-impact-of-covid-19-on-women/policy-brief-the-impact-of-covid-19-on-women-en-1.pdf
+[272] https://www.healthline.com/health-news/why-some-black-and-latinx-people-are-reluctant-to-get-the-covid-19-vaccine
+[273] https://www.healthline.com/health-news/why-some-black-and-latinx-people-are-reluctant-to-get-the-covid-19-vaccine
+[274] https://www.pm.gov.au/media/new-deal-secures-potential-covid-19-vaccine-every-australian
+[275] https://www.bbc.com/news/world-us-canada-55149138
+[276] https://www.nytimes.com/2020/12/17/upshot/vaccines-surprise-bills.html
+[277] https://www.reuters.com/article/health-coronavirus-norway-idUSL8N2H42YA
+[278] https://www.statnews.com/2020/02/27/azar-coronavirus-affordable-trump/
+[279] https://wtop.com/congress/2020/06/federal-legislation-seeks-to-prevent-pandemic-profiteering/
+[280] https://www.statnews.com/2020/03/05/coronavirus-vaccine-affordable-for-everyone/
+[281] https://wwwnc.cdc.gov/eid/article/26/8/20-1093_article
+[282] https://foreignpolicy.com/2020/04/10/poor-countries-social-distancing-coronavirus/
+[283] https://www.downtoearth.org.in/blog/water/covid-19-outbreak-more-hand-washing-can-increase-india-s-water-woes-69900
+[284] https://www.who.int/docs/default-source/immunization/sage/covid/sage-prioritization-roadmap-covid19-vaccines.pdf?Status=Temp&sfvrsn=bf227443_2
+[285] https://www.statnews.com/2020/04/14/some-social-distancing-may-be-needed-into-2022-to-keep-coronavirus-in-check-new-study-says/
+[286] https://www.marketplace.org/2020/11/10/people-are-growing-tired-of-covid-19-safety-measures-even-as-the-virus-surges/
+[287] https://www.medrxiv.org/content/10.1101/2020.03.30.20048009v1
+[288] https://www.eurekalert.org/pub_releases/2020-06/tl-pss060120.php
+[289] https://www.bbc.com/future/article/20210203-why-vaccinated-people-may-still-be-able-to-spread-covid-19
+[290] https://www.scientificamerican.com/article/vaccines-alone-are-not-enough-to-beat-covid/
+[291] https://www.nytimes.com/interactive/2021/01/24/us/covid-vaccine-rollout.html
+[292] https://link.springer.com/article/10.1007/s10654-021-00808-7
+[293] https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/coronavirus-booster-vaccine/
+[294] https://www.nationalgeographic.com/travel/2020/04/what-new-zealand-did-right-in-battling-coronavirus/
+[295] https://time.com/5824042/new-zealand-coronavirus-elimination/
+[296] https://www.imf.org/en/News/Articles/2020/06/29/na062920-vietnams-success-in-containing-covid19-offers-roadmap-for-other-developing-countries
+[297] https://www.theguardian.com/world/2021/feb/05/covid-could-britain-have-been-more-like-new-zealand
+[298] https://www.movehub.com/blog/best-and-worst-covid-responses/
+[299] https://www.scientificamerican.com/article/the-risks-of-rushing-a-covid-19-vaccine/
+[300] https://www.theguardian.com/world/2021/jan/15/now-we-have-the-coronavirus-covid-vaccine-how-soon-can-we-get-back-to-normal-life
+[301] https://www.statnews.com/pharmalot/2020/12/15/covid19-coronavirus-vaccine-covaxi-who/
+[302] https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/coronavirus-drugs/faq-20485627
+[303] https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/coronavirus-drugs/faq-20485627
+[304] https://www.ox.ac.uk/news/2020-06-16-low-cost-dexamethasone-reduces-death-one-third-hospitalised-patients-severe
+[305] https://www.gavi.org/vaccineswork/dexamethasone-evidence-shows-its-efficacy-fight-against-covid-19
+[306] https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/coronavirus-drugs/faq-20485627
+[307] https://www.nationalgeographic.co.uk/science-and-technology/2020/04/why-vaccines-are-critical-keeping-diseases-bay
+[308] https://www.businessinsider.com/whats-the-difference-between-a-vaccine-and-a-treatment-2020-4?r=US&IR=T
+[309] https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
+[310] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636331
+[311] https://theconversation.com/the-original-sars-virus-disappeared-heres-why-coronavirus-wont-do-the-same-138177
+[312] https://theconversation.com/the-mysterious-disappearance-of-the-first-sars-virus-and-why-we-need-a-vaccine-for-the-current-one-but-didnt-for-the-other-137583
+[313] https://horizon-magazine.eu/article/five-things-you-need-know-about-mrna-vaccine-safety.html
+[314] http://The mRNA vaccine platform technology \[which the Pfizer/BioNTech vaccine uses\] has been in development for over two decades
+[315] https://horizon-magazine.eu/article/five-things-you-need-know-about-mrna-vaccines.html
+[316] https://biblio.ugent.be/publication/8628303/file/8628317.pdf
+[317] https://nature.us17.list-manage.com/track/click?u=2c6057c528fdc6f73fa196d9d&id=d36bbe9f59&e=ef0964bfa0
+[318] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024226/
+[319] https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html
+[320] https://www.nytimes.com/2021/12/19/health/omicron-vaccines-efficacy.html
+[321] https://science.sciencemag.org/content/early/2020/08/18/science.abe3147.full
+[322] https://www.nature.com/articles/d41586-020-02386-2
+[323] https://www.businesstoday.in/current/economy-politics/russians-dont-trust-sputnik-v-vaccine-59-percent-wont-take-the-shot-even-for-free/story/424219.html
+[324] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(21\)00191-4/fulltext
+[325] https://www.livescience.com/first-coronavirus-vaccine-safety.html
+[326] https://www.nejm.org/doi/full/10.1056/NEJMp2021971
+[327] https://www.fda.gov/consumers/minority-health-and-health-equity/racial-and-ethnic-minorities-clinical-trials
+[328] https://beta.regulations.gov/document/FDA-2016-D-3561-0001
+[329] https://www.fda.gov/media/139638/download
+[330] https://www.cnbc.com/2020/09/04/moderna-slows-coronavirus-vaccine-trial-t-to-ensure-minority-representation-ceo-says.html
+[331] https://jamanetwork.com/journals/jama/fullarticle/2766098
+[332] https://www.nytimes.com/2021/01/28/health/pregnant-women-covid-vaccines.html?campaign_id=51&emc=edit_MBE_p_20210129&instance_id=26532&nl=morning-briefing&regi_id=85798587&section=topNews&segment_id=50563&te=1&user_id=1dc037ee8afb25bf59b354ccdca5a67b
+[333] https://www.nytimes.com/2021/01/28/health/pregnant-women-covid-vaccines.html?campaign_id=51&emc=edit_MBE_p_20210129&instance_id=26532&nl=morning-briefing&regi_id=85798587&section=topNews&segment_id=50563&te=1&user_id=1dc037ee8afb25bf59b354ccdca5a67b
+[334] https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine
+[335] https://www.nytimes.com/2020/05/02/us/politics/vaccines-coronavirus-research.html
+[336] https://www.nejm.org/doi/full/10.1056/NEJMe2025111
+[337] https://www.sciencedirect.com/science/article/pii/S1473309920301602
+[338] https://horizon-magazine.eu/article/five-things-you-need-know-about-mrna-vaccine-safety.html
+[339] https://www.criver.com/eureka/what-history-tells-us-about-vaccine-timetables
+[340] https://www.nytimes.com/2013/05/07/health/maurice-hilleman-mmr-vaccines-forgotten-hero.html
+[341] https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html
+[342] https://apps.who.int/iris/bitstream/handle/10665/331699/WHO-SRH-20.04-eng.pdf
+[343] https://www.dailygamecock.com/article/2020/12/the-cost-of-herd-immunity-news-bruce
+[344] https://intermountainhealthcare.org/blogs/topics/covid-19/2020/11/debunking-the-myth-of-non-vaccine-herd-immunity-in-covid-19/
+[345] https://www.technologyreview.com/2020/03/17/905264/coronavirus-pandemic-social-distancing-18-months/
+[346] https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/08/sg_policy_brief_covid-19_and_education_august_2020.pdf
+[347] https://www.vox.com/future-perfect/2020/4/18/21212688/coronavirus-lockdowns-developing-world
+[348] https://www.pharmaceutical-journal.com/news-and-analysis/opinion/blogs/ive-had-my-pfizer-covid-19-vaccine-and-heres-why-my-pharmacist-colleagues-should-too/20208696.blog
+[349] https://www.channelnewsasia.com/news/singapore/anaphylaxis-covid-19-vaccine-severe-allergic-reaction-moh-14063090
+[350] https://www.cdc.gov/coronavirus/2019-ncov/vaccines/safety/allergic-reaction.html#:~:text=CDC%20has%20also%20learned%20of,and%20wheezing%20\(respiratory%20distress\).
+[351] https://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.html
+[352] https://apnews.com/article/1f3916dedbb04d8baa7f76725c7e25e6
+[353] https://www.channelnewsasia.com/news/singapore/anaphylaxis-covid-19-vaccine-severe-allergic-reaction-moh-14063090
+[354] https://www.washingtonpost.com/health/2021/01/06/covid-vaccine-allergic-reaction/

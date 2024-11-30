@@ -1,0 +1,304 @@
+Discussion Name:
+Should schools close during the Covid-19 pandemic
+
+1. Thesis:
+Should schools close during the Covid-19 pandemic
+
+  1.1. Pro:
+  Schooling can be effectively conducted online.
+
+    1.1.1. Pro:
+    Remote learning [1] is a good substitute for in-person education.
+
+      1.1.1.1. Pro:
+      Many students have been thriving in remote education due to the ability to self-pace [2].
+
+      1.1.1.2. Pro:
+      A study [3] found that students learn better when studying from home.
+
+      1.1.1.3. Con:
+      Students in remote learning programs tend to score lower than those engaging in in-person education.
+
+        1.1.1.3.1. Pro:
+        A study [4] found that students attending public virtual schools in Georgia between 2007 and 2016 scored significantly below students in the state’s public brick-and-mortar schools on standardized tests and were 10 percentage points less likely to graduate from high school, even taking into account the different characteristics of online students.
+
+        1.1.1.3.2. Pro:
+        When students who were struggling in classes were assigned to one of face-to-face or online credit recovery courses, students in the face-to-face credit recovery courses scored higher [5].
+
+    1.1.2. Pro:
+    Even prior to the Covid-19 pandemic, remote education was being invested in [6] heavily, in recognition of its merits.
+
+      1.1.2.1. Pro:
+      In 2019, $18.66 billion [7] were invested in Global Edtech.
+
+    1.1.3. Con:
+    It is much more difficult to ensure that students are present and engaged in classes when they are conducted remotely.
+
+      1.1.3.1. Pro:
+      Attendance is difficult to monitor when classes are conducted remotely.
+
+        1.1.3.1.1. Pro:
+        A survey [8] of 450 school districts in the US found that “only half of districts nationally expect teachers to track their students’ engagement in learning through either attendance tracking or one-on-one check-ins.”
+
+        1.1.3.1.2. Pro:
+        Students can ignore classes and leave them running in the background while they do other activities.
+
+          1.1.3.1.2.1. Con:
+          This can be avoided by requiring students to turn on their cameras.
+
+            1.1.3.1.2.1.1. Con:
+            Keeping cameras on can make students anxious and uncomfortable [9].
+
+              1.1.3.1.2.1.1.1. Pro:
+              Students may be uncomfortable displaying their surroundings to their peers.
+
+              1.1.3.1.2.1.1.2. Pro:
+              Concerns regarding physical appearance have made many students unhappy [10] about needing to have their cameras turned on.
+
+              1.1.3.1.2.1.1.3. Pro:
+              Zoom meetings can exhaust people [11] as the social demands of remote engagement are higher than they would be in standard circumstances.
+
+            1.1.3.1.2.1.2. Con:
+            It may not be possible for all students to turn on their cameras.
+
+              1.1.3.1.2.1.2.1. Pro:
+              Students may not have enough personal space to be able to turn on their cameras comfortably.
+
+              1.1.3.1.2.1.2.2. Pro:
+              Students may not have stable enough (or any) internet connections for them to switch on their cameras.
+
+                1.1.3.1.2.1.2.2.1. Pro:
+                Two-thirds [12] of school-age children in the world do not have internet access.
+
+                1.1.3.1.2.1.2.2.2. Pro:
+                In March 2021, 12 million students [13] in the US lacked access to the internet.
+
+              1.1.3.1.2.1.2.3. Con:
+              Students for whom this is not possible should submit their reasons to their instructors, who can accommodate them.
+
+      1.1.3.2. Pro:
+      Attendance has decreased since classes have moved online due to the Covid-19 pandemic.
+
+        1.1.3.2.1. Pro:
+        90% [14] of teachers surveyed in May 2020 in the US said that remote attendance did not approach normal attendance levels.
+
+        1.1.3.2.2. Pro:
+        Data suggested that only 60 percent [15] of low-income students were regularly logging into online instruction early in the Covid-19 pandemic.
+
+        1.1.3.2.3. Pro:
+        In the United States, as of May 02 2021, total student participation in online math coursework decreased by 18.6% [16] compared to January 2020.
+
+    1.1.4. Pro:
+    First of all, school closures reduce the risk of illness. And it hardly affects the quality of education (at school) or, on the contrary, improves, because you can watch webinars.
+
+    1.1.5. Con:
+    School closures negatively impact students' academic performance.
+
+      1.1.5.1. Con:
+      Students can get the materials for their school work via the computer.
+
+        1.1.5.1.1. Con:
+        Some students do not have internet access at home.
+
+          1.1.5.1.1.1. Pro:
+          Nearly 20% [17] of students at NUS do not have access to the internet (p. 47).
+
+          1.1.5.1.1.2. Pro:
+          In the US, 4.4 million students [18] cannot consistently access computers and thus, online learning.
+
+          1.1.5.1.1.3. Con:
+          Many governments are taking measures to improve internet access for students.
+
+            1.1.5.1.1.3.1. Pro:
+            In order to improve access to the internet, the government of Panama made the internet free [19] for four months (p. 4).
+
+          1.1.5.1.1.4. Pro:
+          Only 54% [20] of the global population has access to the internet (p. 8).
+
+        1.1.5.1.2. Con:
+        School isn't just about materials alone but also about personal contact and interaction.
+
+        1.1.5.1.3. Con:
+        This may not be sufficient to limit the negative impact of school closures on years of educational attainment [21].
+
+      1.1.5.2. Pro:
+      A study showed that, when students return to school, they will only have 63 to 68% of the learning gains in reading and 37 to 50% of the learning gains in mathematics [22] relative to the average school year.
+
+  1.2. Con:
+  Online schooling does not allow for an accurate assessment of the progress of students.
+
+    1.2.1. Pro:
+    People who don't do well with schoolwork but pull it out of the bag in the exam would get lower grades. Most students hardly write down any of the subject that is being taught in their school books so don't have any proof that they can get a high grade if their books have no revision materials in.
+
+      1.2.1.1. Con:
+      Mocks and proper exam could be sent to the students' houses during the exam period.
+
+    1.2.2. Con:
+    There are multiple online assessment methods [23] that can be combined in order to accurately track the progress of students.
+
+    1.2.3. Pro:
+    A decline in the quality of assessment is detrimental may result in a student's abilities to be misrepresented and thus may harm their future educational prospects.
+
+    1.2.4. Pro:
+    Students won't get help for exams. Students that are in low sets and need help from the teachers for every lesson will have no help with exam preparation and would go into the exam without any help.
+
+      1.2.4.1. Con:
+      There are still revision websites like Seneca [24] and Quizlet [25], which are easy to access. There are also revision books that can be bought in a bookstore or online.
+
+  1.3. Pro:
+  It would reduce the rate of infection of Covid-19.
+
+    1.3.1. Pro:
+    Scientists showed that 1 in 3 people [26] that have COVID-19 won't show symptoms, and would thus continue to go outside and spread the virus without even knowing.
+
+    1.3.2. Con:
+    Students can wear masks and practice social distancing to reduce the rate of infection.
+
+    1.3.3. Con:
+    Kids don't play a significant role in the spread [27] of Covid-19. Therefore, closing schools will not significantly reduce the spread of the virus.
+
+      1.3.3.1. Con:
+      Children are more susceptible to mutant forms of SARS-CoV-2, such as the Delta variant [28].
+
+      1.3.3.2. Pro:
+      A study [29] found that Covid-19 cases in schools were 37% less than the ones in the surrounding community.
+
+    1.3.4. Pro:
+    Closing schools stopped the mixing of households and reduced the spread [30] of the virus.
+
+    1.3.5. Con:
+    Schools can reduce cohort sizes [31] to decrease the chances of widespread Covid-19 transmission.
+
+  1.4. Con:
+  Schools are critical for the social development of students.
+
+    1.4.1. Con:
+    Schools will not close indefinitely, but only until the pandemic is brought under control.
+
+    1.4.2. Pro:
+    Closing schools can affect children's social life. It would also cause children to have problems socializing once Covid isolations end.
+
+    1.4.3. Pro:
+    Adolescents need to have social contact to learn from a very young age how to interact with others but there must be a mandated program implemented where all students be vaccinated. Parents who refuse will need to home school
+
+      1.4.3.1. Con:
+      Adolescents can interact with peers their age in non-school settings.
+
+    1.4.4. Pro:
+    Social development can improve [32] prosocial behaviour, reduce depression, and improve academic achievement.
+
+    1.4.5. Con:
+    Students can take part in social activities online.
+
+      1.4.5.1. Pro:
+      Online learning can be adapted to be more social [33].
+
+  1.5. Con:
+  School closures are detrimental to students' well-being.
+
+    1.5.1. Con:
+    Contracting Covid-19 or spreading it to family members would be worse for a student's well-being.
+
+      1.5.1.1. Pro:
+      Some children, particularly those with underlying conditions, suffer from serious symptoms [34] of Covid-19.
+
+      1.5.1.2. Pro:
+      As of February 2021, 271 children [35] had died of Covid-19 in the US.
+
+      1.5.1.3. Con:
+      Vaccinations for school staff and students should be prioritized so that schools can immediately reopen.
+
+        1.5.1.3.1. Pro:
+        All teachers, bus drivers, security guards and all other staffing should be vaccinated to ensure safe reopening
+
+          1.5.1.3.1.1. Pro:
+          Given that these groups of people are likely to be in contact with a significant number of students, it is important to vaccinate them in order to limit the transmission of the virus.
+
+        1.5.1.3.2. Con:
+        It is unclear why they won't be prioritized if schools are closed.
+
+          1.5.1.3.2.1. Con:
+          If schools are closed, then the need to vaccinate staff and students is less immediate. The vaccine is being deployed to those for whom the need is greatest.
+
+      1.5.1.4. Con:
+      -> See 1.3.3.
+
+    1.5.2. Con:
+    The well being of students is less important than managing a global pandemic.
+
+    1.5.3. Pro:
+    School closures disrupt students' routines, increase rates of anxiety and depression [36] among them.
+
+    1.5.4. Pro:
+    School closures have been linked to an increase in child marriages [37] across the world.
+
+    1.5.5. Pro:
+    Schools provide important benefits for students, particularly those from low-income families, that would be disrupted by school closures.
+
+      1.5.5.1. Pro:
+      Nurses, staffed by schools, play an important part [38] in improving health equity and access.
+
+        1.5.5.1.1. Pro:
+        Nurses provide direct care for at least 20% [39] of students, who suffer from chronic health conditions such as asthma, diabetes, and seizures.
+
+        1.5.5.1.2. Con:
+        Only 2% [40] of schools in California provide school-based health care.
+
+      1.5.5.2. Pro:
+      School lunches allow students from low income families to have access to at least one nutritional meal a day.
+
+        1.5.5.2.1. Pro:
+        In the US, more than 30 million [41] children depend on free or reduced-price meals at school.
+
+        1.5.5.2.2. Con:
+        Many schools in the US adapted their programs [42] to provide meal services to students during Covid-19 closures.
+
+        1.5.5.2.3. Pro:
+        In the UK, 39 billion [43] in-school meals were missed by students in need of them because of school closures forced by the Covid-19 pandemic.
+
+Sources:
+[1] https://gradecam.com/2020/07/what-is-remote-learning-and-how-effective-can-it-be/
+[2] https://www.edutopia.org/article/why-are-some-kids-thriving-during-remote-learning
+[3] https://www.weforum.org/agenda/2021/03/classroom-teaching-better-than-remote-learning-education/
+[4] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3642969
+[5] https://www.tandfonline.com/doi/full/10.1080/19345747.2016.1168500?journalCode=uree20
+[6] https://www.weforum.org/agenda/2020/04/coronavirus-education-global-covid19-online-digital-learning/
+[7] https://markets.businessinsider.com/news/stocks/2019-global-edtech-investments-reach-a-staggering-18-66-billion-1028800669
+[8] https://www.edweek.org/leadership/tracking-student-attendance-under-remote-learning-is-a-complicated-mess/2020/07
+[9] https://thermtide.com/13042/popular/exposing-students-during-the-most-stressful-times-zoom-cameras-should-not-be-required/
+[10] https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7123
+[11] https://www.wsj.com/articles/why-zoom-meetings-can-exhaust-us-11585953336
+[12] https://www.unicef.org/press-releases/two-thirds-worlds-school-age-children-have-no-internet-access-home-new-unicef-itu
+[13] https://www.theguardian.com/us-news/2021/mar/15/us-students-online-access-internet-pandemic-virtual-learning
+[14] https://www.edweek.org/leadership/opinion-remote-learning-cuts-into-attendance-here-are-remedies/2020/12
+[15] http://only 60 percent of low-income students are regularly logging into online instruction
+[16] https://tracktherecovery.org
+[17] https://nusdigital.s3-eu-west-1.amazonaws.com/document/documents/55460/Public_coronavirus_report.pdf?X-Amz-Expires=10000&X-Amz-Date=20210119T200707Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJIMEYCIQCrgPPsldZBQ8R8TpM87xvzWzHXYlJ4V%2BrNGTCYY%2BKLTAIhAJ1%2BdsiueMOvQdm%2F6WP8ysn9cQFYmcblt2VYw%2Bhi5g14KsMDCHsQABoMODc5MjI4MzQwMzM4IgwC%2FYCMiDndYX6Nc0QqoAOQgMct4gYj2bT0bk9aqw2HP2vg4Rhxto3RlO4rlQLxjsm7wjDgF%2BD2VxzMNRn4WALv2McZtYzgBmjvI3ckqYsnQ79TUA9tAKORxO6KXWrynM3LeG9yE2c8v1Zyrh6bfGHAQ4ZFZDw2i52DXjRvDPQduRg1qKBvkNTQshYIQQkgLwleIminRAX3d97Q6r1lbZRB9Fr%2F%2FKESlnZYTKSiThBssxxGfI6f0uh34dxXmYO7TYUkrKHTfNrwLqYITyG5%2FalAxr3G8Hu8EKWQ1GSCmxOEXeUPztbnBHpkVz2SpM3Fed89S6dPwGawOptPaK6R4JGkYNsxb8pAXi1vBK%2FlLfxQtgiml8tQ3sf5Lr8kU%2BcXfcAfT5ZnNzqLEwIeS%2FgatX581FE3%2BOMnqan48VUXHUtrUihkg9am17%2FbhoGgWja0dH8dnN8k85NNmWP4aEjGVUoE4wuEzQInaywr92YoirfTvm5VAenjvzkUab2BVmhxR7jUXYbasNqeMJv4cl78lAL4zak3FGr9ehJO%2FRAKQzkBsSO17877gkUUZ6anukYUlDC7vpyABjrqAW6OAjEDaShdbOl7AQJzspcHujOyMnfRJuGXbGExHeRub%2FxMomcBfLKqkqtgUlp9%2F1GXkRGbjLVg1GM87ER1EXD38ikbMxty1GommVobNF0Gk%2B22cfC3lpdHzH4J7D1SI3tla7Gcxxdll8k8JHmIoRKpUoqJtQtMsswLkdA6QwhIvN7SLO7uG3I7tgz2rWA%2BIqDMQ7dWj9Ayqd5dL5lFgvXil7gaV3kE9KL7fX8VGQh6cIbj3wtJFXGfrWAPvPoJMa9xal7DSjuCNJVy2EKMb5jfr6SqHJUc7mxzriflIpijdQrDXawfflH0bA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA4ZNQXZBZGRX2NH5S%2F20210119%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2b299393028745dc1af13d8e425fec2e19fa93e4a3192c4ded05267fd40329de
+[18] https://usafacts.org/articles/internet-access-students-at-home/#:~:text=Overall%2C%204.4%20million%20households%20with,3.7%20million%20lack%20internet%20access.&text=According%20to%20the%20most%20recent,have%20internet%20access%20at%20home.
+[19] https://pathwayscommission.bsg.ox.ac.uk/sites/default/files/2020-09/improving_internet_connectivity_during_covid-19_0.pdf
+[20] https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2019.pdf
+[21] https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2772834
+[22] https://journals.sagepub.com/doi/10.3102/0013189X20965918
+[23] https://elearningindustry.com/qualitative-elearning-assessment-methods-track-online-learners-progress
+[24] https://senecalearning.com/en-GB/
+[25] https://quizlet.com/latest
+[26] https://patient.info/news-and-features/coronavirus-what-are-asymptomatic-and-mild-covid-19
+[27] https://www.healthline.com/health-news/study-finds-kids-under-10-unlikely-to-spread-coronavirus-at-school
+[28] https://www.healthline.com/health-news/what-does-the-delta-variant-look-like-in-kids
+"The Delta variant is more than twice as contagious as previous variantsTrusted Source, and there’s data that suggests it might cause more severe illness."
+[29] https://www.cidrap.umn.edu/news-perspective/2021/01/scientists-highlight-low-risk-covid-19-spread-schools
+[30] https://patient.info/news-and-features/coronavirus-what-are-asymptomatic-and-mild-covid-19
+[31] https://www.cidrap.umn.edu/news-perspective/2021/01/scientists-highlight-low-risk-covid-19-spread-schools
+[32] https://www.edutopia.org/blog/why-sel-essential-for-students-weissberg-durlak-domitrovich-gullotta
+[33] https://hbsp.harvard.edu/inspiring-minds/online-learning-can-still-be-social
+[34] https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/symptoms.html
+[35] https://www.washingtonpost.com/health/interactive/2021/covid-children-deaths/
+[36] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7481176/
+[37] https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\)32112-7/fulltext
+[38] http://ojin.nursingworld.org/MainMenuCategories/ANAMarketplace/ANAPeriodicals/OJIN/TableofContents/Vol-22-2017/No3-Sep-2017/Healthy-and-Ready-to-Learn.html
+[39] https://kappanonline.org/maughan-school-nurses-investment-student-achievement/
+"With nearly 20% of students entering school with a chronic health condition, such as asthma, life-threatening allergies, diabetes, and seizure disorders (U.S. Health Resources and Services Administration, 2016), school nurses provide direct care (checking blood glucose, providing treatments) to students with these needs; empower students to manage their own chronic conditions; and work with students’ healthcare providers, school staff, and the community to coordinate students’ needs."
+[40] https://www.schoolhealthcenters.org/school-based-health/why-sbhcs/low-income-schools-ca/
+[41] https://www.globalcitizen.org/en/content/school-meals-covid-19-hunger/#:~:text=More%20than%2030%20million%20children,get%20meals%20into%20students%27%20hands.
+[42] https://www.globalcitizen.org/en/content/school-meals-covid-19-hunger/#:~:text=More%20than%2030%20million%20children,get%20meals%20into%20students%27%20hands.
+[43] https://www.unicef.org/press-releases/nutrition-crisis-looms-more-39-billion-school-meals-missed-start-pandemic-unicef-and

@@ -1,0 +1,829 @@
+Discussion Name:
+Have authoritarian governments handled COVID-19 better than others?
+
+1. Thesis:
+Authoritarian governments have handled COVID-19 better than others.
+
+  1.1. Con:
+  Many democracies have handled COVID-19 well.
+
+    1.1.1. Con:
+    Many democracies have pursued authoritarian policies, such as vaccine mandates [1], in order to handle the pandemic well.
+
+      1.1.1.1. Pro:
+      110 countries [2] globally have declared states of emergency. This can provide governments with authoritarian powers [3].
+
+        1.1.1.1.1. Pro:
+        On 30 March 2021, the Hungarian Parliament passed the Coronavirus Act [4], which indefinitely granted the government emergency powers.
+
+          1.1.1.1.1.1. Con:
+          The Hungarian Parliament subsequently voted [5] to repeal these powers.
+
+            1.1.1.1.1.1.1. Con:
+            Orban's government developed a new law [6] to keep most of the powers from the Coronavirus Act.
+
+          1.1.1.1.1.2. Pro:
+          The bill passed by 137 to 53 [7] in the Hungarian Parliament, clearly demonstrating majority support for the measures.
+
+        1.1.1.1.2. Pro:
+        Some governments have historically used emergency legislation to erode civil liberties for a long time after a crisis.
+
+          1.1.1.1.2.1. Pro:
+          Northern Ireland used a modified version of World War I emergency legislation [8] to oppress minorities for decades after the war.
+
+      1.1.1.2. Pro:
+      Many democratic countries imposed curfews [9] on citizens in order to control the spread of the virus, this process is inherently authoritarian [10].
+
+      1.1.1.3. Con:
+      If such policies were pursued by a democratically-elected government during a time of crisis, then they cannot be said to be truly authoritarian.
+
+        1.1.1.3.1. Con:
+        If the effects of the action are oppressive, such as the limiting of free movement, speech or gathering, then who is causing them is irrelevant.
+
+          1.1.1.3.1.1. Con:
+          The intention behind the action is always relevant. If a democratically elected government takes a temporary action with the intent of minimizing harm and protecting people, then that is different to an authoritarian state exercising control.
+
+        1.1.1.3.2. Pro:
+        A democratically elected government has a mandate to act and govern on behalf of the people. Taking strong action to preserve the life of such people is not an authoritarian action.
+
+      1.1.1.4. Con:
+      These authoritarian measures can have high levels of public support. 80% [11] of the British public supported restrictions on their freedom in January.
+
+        1.1.1.4.1. Con:
+        This suggests that 20% of people had their rights restricted against their will. Just because something has public support does not mean that it is morally correct or acceptable.
+
+    1.1.2. Con:
+    Many EU democracies have suffered from a loss in citizen trust [12] following the COVID-19 pandemic.
+
+      1.1.2.1. Con:
+      Such a fall in citizen trust does not happen in a vacuum. There are significant factors other than government response to COVID-19 that may be causing this.
+
+        1.1.2.1.1. Pro:
+        Bad-faith politics and misrepresentation during Brexit has undermined representative democracy [13] for all parties involved.
+
+        1.1.2.1.2. Pro:
+        The EU has failed to utilise its soft power in order to promote democracy at home and abroad [14].
+
+          1.1.2.1.2.1. Pro:
+          Both Poland and Hungary have come under investigation for undermining democracy and oppressing minority groups [15], however the EU has been unable to sanction them [16].
+
+        1.1.2.1.3. Con:
+        The European Council on Foreign Relations [17] believes that COVID-19 and vaccine procurement are mainly to blame for decreasing citizen trust.
+
+      1.1.2.2. Pro:
+      Trust in national governments decreased, whereas trust in the EU has steadily increased [18]. This shows greater citizen support for less democratic, more authoritarian [19] institutions during COVID.
+
+    1.1.3. Pro:
+    New Zealand [20] has been highly successful in tackling COVID-19.
+
+      1.1.3.1. Pro:
+      The democratic government of New Zealand took decisive action through the adoption of a zero-COVID [21] strategy.
+
+        1.1.3.1.1. Con:
+        New Zealand has since abandoned its zero-Covid strategy [22].
+
+          1.1.3.1.1.1. Con:
+          This was not due to a failure of governance or policy making, but rather the development of the Delta variant [23].
+
+          1.1.3.1.1.2. Pro:
+          Some analysts [24] believe this strategy will always be unsustainable as every new case results in another snap lockdown.
+
+        1.1.3.1.2. Con:
+        The promise of zero-COVID resulted in few people getting vaccinated [25] in New Zealand.
+
+          1.1.3.1.2.1. Con:
+          During the implementation of zero-COVID policy there was little reason to get vaccinated, considering how small the chance of contracting the virus was. Now that this has changed, vaccination rates will rise.
+
+            1.1.3.1.2.1.1. Pro:
+            72% [26] of the population of New Zealand is now fully vaccinated.
+
+        1.1.3.1.3. Pro:
+        This policy has allowed the people of New Zealand to live in relative normality [27] for most of the pandemic.
+
+        1.1.3.1.4. Pro:
+        New Zealand's death rate from COVID-19, as of October 2021, was only 27 people [28].
+
+      1.1.3.2. Con:
+      New Zealand is an island nation [29]. It is not reasonable to compare their performance to other countries with very different controls on their borders.
+
+        1.1.3.2.1. Pro:
+        Island nations were seen to have considerably more success [30] at mitigating the impact of COVID-19.
+
+    1.1.4. Pro:
+    Many democracies have performed better [31] than authoritarian states in encouraging citizen cooperation, as political repression limits the desire for cooperation [32].
+
+      1.1.4.1. Pro:
+      Large-scale protests [33] against COVID restrictions have engulfed China, indicating public dissatisfaction with their authoritarian government.
+
+    1.1.5. Con:
+    The United States of America, which considers itself the world's leading democracy [34], failed in its response to COVID-19 [35].
+
+      1.1.5.1. Pro:
+      Donald Trump promoted dangerous COVID-19 pseudoscience [36].
+
+      1.1.5.2. Con:
+      The US' COVID-19 response has varied from state to state [37].
+
+      1.1.5.3. Con:
+      Few people inside and outside the US consider the country as a good example for democracy anymore, according to a 2021 survey [38]. Therefore, the American response to Covid can hardly be seen as an indicator for how democracies are performing.
+
+      1.1.5.4. Pro:
+      The United States failed to be a global leader in the response to the COVID-19 pandemic.
+
+        1.1.5.4.1. Pro:
+        The United States is guilty of pursuing a policy of vaccine nationalism [39], rather than the equitable distribution [40] of resources internationally.
+
+        1.1.5.4.2. Con:
+        The United States is the largest [41] single contributor to the UN'S COVAX program.
+
+          1.1.5.4.2.1. Con:
+          Sweden, despite lacking the US' economic firepower, donated more resources per capita [42].
+
+      1.1.5.5. Con:
+      The US was only ranked 25th [43] in the 2020 Democracy Index. According to this index, the US is a "Flawed democracy".
+
+        1.1.5.5.1. Pro:
+        Donald Trump was an autocratic leader [44]. Given that he oversaw much of the country's pandemic response, the US' performance should not be considered representative of how democracies respond to emergencies.
+
+      1.1.5.6. Pro:
+      As of March 2021, the US had 20% of global COVID-19 deaths [45] despite only having 4% of the global population.
+
+        1.1.5.6.1. Con:
+        As of late 2021, the US ranked 20th [46] in terms of Covid deaths per capita and behind several other democratic nations from Europe as well as South America. This contextualizes the American performance during the pandemic.
+
+  1.2. Con:
+  The social, political and economic cost of COVID-19 measures for people in authoritarian states is too high.
+
+    1.2.1. Pro:
+    Authoritarian state responses to emergencies are only positive when the state has good intention [47]s and acts wisely, which they commonly do not. In these cases, course correction is unlikely and citizens are likely to be deceived.
+
+      1.2.1.1. Pro:
+      It is highly unlikely that a state would have malintent when it comes to COVID-19. The disease effects all in society, and it is in the best interests of everyone if it is stopped.
+
+        1.2.1.1.1. Con:
+        While most authoritarian states may wish to reduce the impact of COVID-19, that does not mean they will not use the pandemic as a cover [48] to grab additional powers at their citizens' expense.
+
+    1.2.2. Pro:
+    Public health in western developed countries has been negatively impacted by authoritarian COVID-19 responses.
+
+      1.2.2.1. Pro:
+      The developed world has seen less healthy eating habits [49].
+
+      1.2.2.2. Pro:
+      The UK will likely have 10,000 additional cancer deaths from delayed diagnosis [50].
+
+      1.2.2.3. Con:
+      Lockdowns have saved lives [51].
+
+    1.2.3. Con:
+    Authoritarian states already limit social, political and economic freedoms by nature. If further control saves lives, then the cost is not too high.
+
+      1.2.3.1. Pro:
+      It is likely that a population that is used to having their rights curtailed will not find further restrictions with good cause offensive.
+
+      1.2.3.2. Con:
+      The imposition of strong limits to fundamental freedoms like movement and gathering may be the straw that breaks the camel's back in authoritarian societies.
+
+    1.2.4. Con:
+    People all over the world are willing to give up their rights for physical safety.
+
+      1.2.4.1. Con:
+      Anti-lockdown protests [52] have erupted all over the world.
+
+      1.2.4.2. Pro:
+      A USA Today poll found that most Americans believe that protecting the public from COVID-19 is more important [53] than individual liberty.
+
+  1.3. Con:
+  Many authoritarian states lack a healthy private sector, a core requirement of any effective COVID-19 strategy.
+
+    1.3.1. Con:
+    The private sector has refused to donate essential items to governments during COVID-19.
+
+      1.3.1.1. Pro:
+      The private sector is a distinct entity from the government; as such, it should not have a mandate to provide goods or services free of charge.
+
+      1.3.1.2. Con:
+      The private sector has provided financial donations [54] to the UN's COVAX [55] program.
+
+    1.3.2. Con:
+    Over reliance on private healthcare has induced crises [56] in the healthcare systems of many low-middle income countries due to the pressure of COVID-19.
+
+      1.3.2.1. Pro:
+      Many private sector healthcare systems rely on elective procedures. When governments cancelled these procedures due to COVID-19, some companies engaged in unethical business practices [57] to avoid bankruptcy.
+
+    1.3.3. Pro:
+    The private sector could provide essential health services [58] while the state healthcare system focuses on combatting COVID-19.
+
+      1.3.3.1. Con:
+      The outsourcing of public health services to private companies could be a covert method of privatising public healthcare.
+
+        1.3.3.1.1. Pro:
+        The British Medical Association has accused the British government of accelerating the privatisation of the NHS [59] by outsourcing prominent aspects of the state's COVID-19 response.
+
+      1.3.3.2. Con:
+      Government attempts to pay private healthcare companies to reduce pressure on public healthcare have failed.
+
+        1.3.3.2.1. Pro:
+        Despite being paid billions of pounds to take pressure off the NHS, private healthcare companies in England only saw eight COVID-19 patients a day [60] during the pandemic.
+
+        1.3.3.2.2. Con:
+        Any alleviation of pressure on public healthcare is a success given the novelty of these agreements and the COVID-19 crisis.
+
+      1.3.3.3. Pro:
+      The Irish government reached an agreement to co-opt private [61] healthcare capacity in order to bolster the public sector.
+
+    1.3.4. Pro:
+    The private sector has developed some of the essential tools for fighting COVID-19.
+
+      1.3.4.1. Pro:
+      Private companies make COVID-19 lateral flow tests [62].
+
+        1.3.4.1.1. Con:
+        It is unclear how effective [63] lateral flow tests are.
+
+        1.3.4.1.2. Pro:
+        Most governments cannot make enough lateral flow tests for their citizens to take them twice a week (as they do in England [64]). The private sector was essential to their production.
+
+      1.3.4.2. Pro:
+      The Pfizer-BioNTech [65] vaccine and the Oxford-AstraZeneca [66] vaccine were both developed by private companies.
+
+        1.3.4.2.1. Pro:
+        The Russian state has been accused of stealing [67] data from AstraZeneca in order to develop its own vaccine.
+
+          1.3.4.2.1.1. Con:
+          Russia has vehemently denied [68] these allegations.
+
+        1.3.4.2.2. Con:
+        97% of the funding for the Oxford-AstraZeneca vaccine came from taxpayers or charitable trusts [69].
+
+  1.4. Pro:
+  Several authoritarian states seem to have control over the COVID-19 pandemic.
+
+    1.4.1. Con:
+    COVID-19 data from authoritarian states is unreliable.
+
+      1.4.1.1. Pro:
+      Citizens and healthcare workers in authoritarian states are less likely to blow the whistle or report mistakes for fear of punishment.
+
+        1.4.1.1.1. Pro:
+        The whistleblower Li Wenliang, one of the first Chinese doctors to raise the alarm about potential COVID-19 cases, was humiliated by the Wuhan government [70].
+
+          1.4.1.1.1.1. Con:
+          These were the acts of corrupt local government, and the Chinese Communist Party's top disciplinary exonerated the doctor and criticized local officials [71].
+
+          1.4.1.1.1.2. Pro:
+          Dr. Wenliang was reprimanded by police and forced to sign a confession [72].
+
+        1.4.1.1.2. Con:
+        Whistleblowers in democracies are often poorly treated.
+
+          1.4.1.1.2.1. Con:
+          Many democracies have laws in place protecting whistleblowers from mistreatment.
+
+            1.4.1.1.2.1.1. Pro:
+            In Ireland, the Protected Disclosures Act 2014 [73] incentivises workers to disclose wrongdoings internally, but permits workers to make reports elsewhere, such as the media or government.
+
+            1.4.1.1.2.1.2. Pro:
+            The EU has issued a directive [74] aimed at protecting whistleblowers and guaranteeing safe reporting channels and safeguards against retaliation. [75]
+
+            1.4.1.1.2.1.3. Con:
+            Laws require willing and able administrators to be effective. These are missing in some democracies.
+
+              1.4.1.1.2.1.3.1. Pro:
+              The Maltese journalist Daphne Caruana Galizia was murdered in October 2017. Her revelations on corruption directly implicated the Maltese prime minister and two of his closest aides [76]. The people who ordered her murder have never been brought to justice.
+
+          1.4.1.1.2.2. Pro:
+          CIA officials in the Trump administration discussed assassinating [77] Julian Assange.
+
+            1.4.1.1.2.2.1. Con:
+            Trump acted like an autocrat [78] on many occasions. His behaviour cannot be taken to represent the actions of a truly democratic government.
+
+          1.4.1.1.2.3. Pro:
+          Chelsea Manning served seven years of a 35-year sentence [79] for leaking public interest documents which major international news outlets subsequently reported on [80]. She was later rearrested, released, and arrested again [81].
+
+      1.4.1.2. Pro:
+      Authoritarian states may manipulate COVID-19 data purposefully in order to appear to have handled the pandemic more proficiently.
+
+        1.4.1.2.1. Con:
+        It is within the interests of authoritarian governments to appear honest and transparent in the case of COVID-19, as any misinformation could be easily questioned by the populace.
+
+          1.4.1.2.1.1. Pro:
+          North Korea has communicated that it is having issues with COVID-19. Kim Jong-Un has publically declared a state of emergency [82] and warned of a "grave incident" which has caused a "huge crisis" [83].
+
+          1.4.1.2.1.2. Pro:
+          COVID-19 puts a lot of pressure on health services. If these began to fail or slow down due to COVID-19 cases while the government was claiming that the situation was normal, then the misinformation would become obvious.
+
+        1.4.1.2.2. Pro:
+        Virtually all analysts consider North Korea's claim that there are no cases to be impossible [84].
+
+    1.4.2. Pro:
+    North Korea claims to have no COVID-19 [85] cases.
+
+      1.4.2.1. Con:
+      The authoritarian steps taken to limit COVID-19, like harsh lockdown measures, have lead to increased hunger and risks of famine [86].
+
+      1.4.2.2. Pro:
+      North Korea closed its borders with China and Russia incredibly early [87], effectively protecting the country from COVID-19.
+
+      1.4.2.3. Pro:
+      North Korea enforces its COVID-19 restrictions very heavily, including executing [88] those who defy the laws and issuing a shoot-to-kill order to border guards [89].
+
+      1.4.2.4. Con:
+      -> See 1.4.1.2.2.
+
+      1.4.2.5. Con:
+      There are indirect signs that North Korea is dealing with a significant crisis, likely COVID-19.
+
+        1.4.2.5.1. Pro:
+        Only 700 North Koreans are being tested for COVID-19 each week [90]. It is more likely that no cases have been officially reported, or the Kim regime is suppressing information.
+
+          1.4.2.5.1.1. Pro:
+          Many NGOs, humanitarian groups and diplomats have left the country during the pandemic [91], making it difficult to learn what is happening in North Korea.
+
+        1.4.2.5.2. Pro:
+        Russia has had to offer North Korea large numbers of COVID-19 vaccines [92] in order to improve the situation in the country.
+
+        1.4.2.5.3. Pro:
+        -> See 1.4.1.2.1.1.
+
+    1.4.3. Pro:
+    China has largely beaten COVID-19 [93].
+
+      1.4.3.1. Pro:
+      As of October 2021, China has had approximately 125,000 [94] cases of COVID-19 despite having a population of 1.4 billion [95].
+
+        1.4.3.1.1. Pro:
+        The UK has had more COVID-19 deaths [96] than China has had Covid-19 cases, despite china having over 2100% [97] of the population of the UK.
+
+        1.4.3.1.2. Con:
+        China may have been under-reporting their COVID-19 statistics. Excess deaths in Wuhan [98], for example, are much higher than official COVID-19 statistics.
+
+      1.4.3.2. Pro:
+      Massive state control in China allowed for bold public health initiatives to be undertaken at very short notice.
+
+        1.4.3.2.1. Pro:
+        In Hebei province, construction started on new quarantine villages the morning after [99] the Chinese government decided to build them.
+
+        1.4.3.2.2. Con:
+        Fear of political reprisals [100] in Wuhan prevented officials from reporting the new virus to the central government in late 2019, slowing down China’s response to the virus at the start of the pandemic.
+
+      1.4.3.3. Con:
+      China is still enforcing lockdowns [101] and school closures [102].
+
+      1.4.3.4. Con:
+      China is not truly authoritarian [103].
+
+        1.4.3.4.1. Con:
+        China is a truly authoritarian state [104], as it does not allow freedom of thought or action, places power in the hands of an undemocratic government and does not allow for political competition.
+
+        1.4.3.4.2. Pro:
+        According to the Economist Intelligence Unit Democracy Index, China is not [105] one of the 21 most authoritarian states in the world.
+
+          1.4.3.4.2.1. Con:
+          The Democracy Matrix, an index of authoritarian states, claims that China is a "Hard Autocracy [106]" and the fifth-worst country globally in terms of quality of democracy.
+
+      1.4.3.5. Con:
+      China's success is not due to its authoritarian nature.
+
+        1.4.3.5.1. Pro:
+        China's experience with SARS [107] in 2002 laid the groundwork for its response to COVID-19 in 2019.
+
+    1.4.4. Con:
+    Rankings like the Bloomberg Covid Resilience Index [108] show several authoritarian countries at the bottom, such as Russia, Thailand and Vietnam. One can therefore hardly generalize about the performance of authoritarian countries.
+
+      1.4.4.1. Con:
+      The other way around, countries like Ireland, Chile, Canada and Finland at the top of the index show that democratic countries are among those that deal the best with Covid.
+
+  1.5. Pro:
+  Citizens in authoritarian states are more likely to follow COVID-19 guidelines.
+
+    1.5.1. Pro:
+    Adherence to restrictions [109] in democracies were hindered by the perceived inconsistencies in their application.
+
+    1.5.2. Con:
+    Ideology is unimportant in citizen adherence, it is more important that the state is perceived as trustworthy, legitimate and fair. [110]
+
+      1.5.2.1. Con:
+      Creating the perception that a ruling party is trustworthy, legitimate and fair is easier in an authoritarian regime, as governments may have control of the media or strong propaganda departments.
+
+    1.5.3. Pro:
+    Citizens in authoritarian states are seen to be more obedient [111] to state legislation.
+
+      1.5.3.1. Con:
+      Just because they are perceived to be more obedient does not mean that they are.
+
+        1.5.3.1.1. Pro:
+        North Korea has large amounts of smuggling activity [112], despite being a reclusive authoritarian state.
+
+        1.5.3.1.2. Pro:
+        China has investigated and dealt with hundreds of organised crime organisations [113] that have existed and grown despite the authoritarian regime.
+
+    1.5.4. Con:
+    Citizens in authoritarian states are less likely [114] to follow their government's travel guidelines.
+
+    1.5.5. Con:
+    -> See 1.4.1.1.
+
+  1.6. Pro:
+  Authoritarian control over state machinery allows for effective reactions to emergencies like COVID-19.
+
+    1.6.1. Con:
+    Efficacy should not come at the cost of civil liberties, given it is possible to achieve both [115] at once.
+
+      1.6.1.1. Con:
+      There is no point in preserving civil liberties if citizens are not alive and well enough to enjoy them.
+
+        1.6.1.1.1. Pro:
+        We already limit civil liberties when they can cause serious harm. When there is a deadly disease in circulation it is only reasonable that more civil liberties will be curtailed while the disease circulates.
+
+        1.6.1.1.2. Con:
+        There is no point in being alive and well if you cannot enjoy personal freedoms and must live under constant government control.
+
+      1.6.1.2. Pro:
+      The potential threats to civil liberties are hard to predict. As such, initiating processes which compromise liberty can lead to disastrous outcomes. [116]
+
+    1.6.2. Con:
+    Temporary authoritarian control and authoritarian states are not equivalent. In democracies, politicians are held accountable [117] around the use of temporary authoritarian controls.
+
+    1.6.3. Pro:
+    Authoritarian use of digital tools has allowed for better management of the pandemic.
+
+      1.6.3.1. Pro:
+      China has developed a health code system which is capable of reporting location data to police and enforcing self-quarantines [118].
+
+      1.6.3.2. Con:
+      These tools have come at the cost of personal privacy.
+
+        1.6.3.2.1. Pro:
+        South Korea's COVID-19 contact tracing program [119] has led to the leaking of private information to community members.
+
+    1.6.4. Pro:
+    -> See 1.1.1.
+
+    1.6.5. Con:
+    Authoritarian control also inhibits transparency, as in the case of China, where doctor Zhang Jixian was prohibited from alerting the local and international community about Covid-19.
+
+Sources:
+[1] https://www.washingtontimes.com/news/2021/sep/22/bidens-authoritarian-vaccine-mandate-overreach/
+"The President’s most telling statement was when he said, “This is not about freedom or personal choice. It’s about protecting yourself and those around you — the people you work with, the people you care about, the people you love.” 
+
+[...]
+
+Mr. President, you are wrong. This is about freedom. This is about personal choice. Just as important, it is about the rule of law and the sanctity of the safeguards of the Constitution. The Framers put these protections in place to prevent someone like you from taking this authoritarian action. Yours is a power grab personified. One man cannot substitute himself for the 535 members of Congress or 50 state governments."
+[2] https://www.icnl.org/covid19tracker/?issue=5
+[3] https://globalchallenges.ch/issue/special_1/covid-19-and-states-of-emergency/
+"Despite their feeble legal foundation, such initiatives seemed to correspond with the urgency of the situation, requiring immediate action to preserve the life and health of a country’s citizens. Moreover, most of the sweeping measures adopted (strict confinements and quarantines, monitoring of social distance and infected people, and even border closures) were recommended by the scientific community and the WHO as necessary to effectively contain the virus and protect the right to health."
+[4] https://voxeu.org/article/covid-19-and-future-democracy
+"Democracy has been in recession for over a decade (Diamond 2019) and many fear that Covid-19 will accelerate this trend. In the Philippines, President Rodrigo Duterte has seized even greater power and threatened martial law-style enforcement of a monthlong lockdown. And on 30 March 2020, the Hungarian Parliament passed the Coronavirus Act, which grants Viktor Orbán’s government unprecedented emergency powers for an indefinite period of time."
+[5] https://www.bbc.co.uk/news/world-europe-53062177
+"Hungarian lawmakers have voted in favour of repealing extraordinary powers granted to Prime Minister Viktor Orban to fight the coronavirus.
+
+Members of parliament unanimously requested the government lift the state of emergency and Mr Orban's powers to rule by decree.
+
+The government is expected to revoke the measures by the end of the week."
+[6] https://www.euronews.com/2020/06/16/hungary-debates-end-to-emergency-powers-but-new-law-opens-up-potential-to-re-apply-them
+"But human rights groups say the bill terminating the "state of danger" in Hungary still makes it easier for the government to rule by decree and will erode the rule of law in the EU country.
+
+The new law leaves the possibility for the government to declare another state emergency granting it extra powers to handle an epidemic.
+
+Orbán, who imposed a relatively early lockdown to halt the spread of coronavirus, said that ruling by decree allowed him to respond quickly and effectively to the health crisis. Hungary has reported just over 4,000 infections and 565 deaths from COVID-19.
+
+Critics of Orbán's government at home and abroad have accused him of using the crisis to cement his rule and push the country toward authoritarianism by removing legal limitations to his power."
+[7] https://www.theguardian.com/world/2020/mar/30/hungary-jail-for-coronavirus-misinformation-viktor-orban
+"Parliament voted by 137 to 53 to pass the measures on Monday afternoon, with the two-thirds majority enjoyed by Orbán’s Fidesz party enough to push them through in spite of opposition from other parties, which had demanded a time limit or sunset clause on the legislation."
+[8] https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/special-powers-act
+"The act endowed the Northern Ireland government with most of the powers granted to the imperial government under the 1914 Defence of the Realm Act (DORA) and the 1920 Restoration of Order in Ireland Act (ROIA), except for the right to create courts-martial. It allowed "the civil authority," defined as the minister of home affairs, to "take all such steps and issue all such orders as may be necessary for preserving the peace and maintaining order"; the minister could delegate this authority, in whole or in part, to any police officer."
+[9] https://theconversation.com/coronavirus-five-ways-some-states-have-used-the-pandemic-to-curtail-human-rights-and-democracy-151618
+"Most countries around the world adopted some form of lockdown, ranging from partial or night-time curfew to complete lockdown. Lockdowns may help to flatten the curve and curb the spread of disease, but for many they also impose extreme hardship"
+[10] https://cultmtl.com/2021/01/opinion-the-quebec-curfew-is-authoritarian-theatre/
+"In contrast, authoritarian approaches — like increased policing, encouraging snitching, and blanket curfews — are not necessarily rooted in actually improving public health. Moreover, these measures, like increased ticketing and police surveillance, can actually undermine necessary pandemic mitigation measures like contact tracing."
+[11] https://www.standard.co.uk/news/politics/lockdown-boris-johnson-yougov-poll-b680047.html
+"Lockdown: YouGov poll finds 80% of public support national coronavirus restrictions as Boris Johnson prepares to address nation"
+[12] https://www.eurofound.europa.eu/data/covid-19/democracy-trust
+"Trust in institutions has plummeted, especially trust in national governments which fell from 4.6 in summer 2020 to 3.9 in spring 2021. 14 Member States saw a significant drop since 2020, and trust in national governments across all Member States sank below levels recorded at the start of the pandemic. Trust in the EU also fell but remains higher than trust in national governments."
+[13] https://blogs.lse.ac.uk/brexit/2021/02/09/untruthful-brexit-rhetoric-has-undermined-representative-democracy-in-the-uk/
+"Throughout the run-up to the signing of the EU-UK withdrawal agreement as well as the trade deal, the British government’s public rhetoric on Brexit has been criticised for being misleading and insincere. Sten Hansson (University of Tartu/University of Birmingham) and Sandra Kröger (University of Exeter) argue that there are four ways in which untruthful statements by leading politicians may have undermined representative democracy."
+[14] https://www.theatlantic.com/international/archive/2019/10/europe-falling-short-promoting-democracy/599311/
+"Trump’s ambivalence unsettled politicians in European capitals, where the events in Hong Kong were being closely watched. Not only was the supposed leader of the free world giving Beijing what seemed like a green light, but, in doing so, he was raising pressure on the European Union and its member states—which had remained silent for weeks—to make their own views clear. Europe felt that it had to step into the breach and take a stand on democracy.
+
+Still, it took the EU nearly two weeks to put out a brief statement. And it was far from strong, urging both sides in the Hong Kong conflict to exercise restraint. For the protesters, it was cold comfort.
+
+The EU’s founding treaties list the promotion and protection of democracy—both within Europe and beyond its borders—as one of the bloc’s core missions. Seven years ago, the EU was awarded a Nobel Prize for advancing peace, democracy, and human rights at home."
+[15] https://www.washingtonpost.com/opinions/global-opinions/while-the-us-deals-with-trumps-attacks-on-democracy-the-eu-faces-a-threat-of-its-own/2020/11/23/d42d5904-2db3-11eb-96c2-aac3f162215d_story.html
+"A continued impasse could exacerbate what is already a serious economic crisis within the European Union. But if the blackmail by Hungary and Poland succeeds, Europe’s commitment to democracy will be fatally compromised. Whatever the cost, it is essential that E.U. leaders not give in.
+
+The trouble in the two former Soviet-bloc countries centers on their governments’ efforts to strip the judiciary of its independence, eliminate opposition media and, in Hungary’s case, corruptly divert E.U. funds to relatives and cronies of Prime Minister Viktor Orban. Both governments also have refused to accept refugees from Muslim countries, targeted the LGBTQ community with discriminatory measures and flirted with anti-Semitism."
+[16] https://www.washingtonpost.com/opinions/global-opinions/while-the-us-deals-with-trumps-attacks-on-democracy-the-eu-faces-a-threat-of-its-own/2020/11/23/d42d5904-2db3-11eb-96c2-aac3f162215d_story.html
+"The European Commission, the E.U. governing body, launched investigations of both countries under a treaty article that allows for the suspension of their voting rights. But the commission has been unable to sanction them because of the requirement of a unanimous vote by member governments — the two proto-autocracies protect each other."
+[17] https://ecfr.eu/publication/crisis-of-confidence-how-europeans-see-their-place-in-the-world/
+"- Public faith in EU institutions has declined due to their handling of the covid-19 pandemic and vaccine procurement.
+
+- This effect is strongest in Germany: disappointment with the EU has now spread from the periphery to the centre.
+
+- However, the European project is not doomed, as citizens still believe in the need for greater cooperation – particularly in strengthening the EU as a global actor."
+[18] https://euobserver.com/coronavirus/152040
+"Nevertheless, the image of the EU and trust in the 27-nation bloc remains strong and steadily increasing - while Europeans' support for their national governments has plummeted since the pandemic began."
+[19] https://www.cambridge.org/core/journals/government-and-opposition/article/europes-other-democratic-deficit-national-authoritarianism-in-europes-democratic-union/D0521BB6E422F3354315A5708C5161F7
+"Critics have long argued that the EU suffers from a democratic deficit and that growing EU power undermines national democracy. But recent backsliding on democracy and the rule of law in Hungary and Poland reminds us that grave democratic deficits can also exist at the national level in member states and that the EU may have a role in addressing them. This article will place the EU’s struggles with democratic deficits in its member states in comparative perspective, drawing on the experience of other democracies that have struggled with pockets of subnational authoritarianism."
+[20] https://www.theguardian.com/global/2021/apr/04/how-new-zealands-covid-success-made-it-a-laboratory-for-the-world
+"New Zealand is one of the few places in the world where that’s not the case. The country eliminated Covid 19 in the community by shutting its border in mid-March 2020, introducing compulsory quarantine for all returnees, and instituting a series of lockdowns to stamp out existing clusters. Every so often, a case slips through the border, causing a small outbreak. But without community transmission in the background, New Zealand can drill down into individual cases with forensic detail."
+[21] https://theloop.ecpr.eu/the-covid-19-pandemic-how-new-zealand-got-the-response-right/
+"It has been argued that New Zealand’s isolated location spared the country from the worst. But statistics suggest otherwise. In 2019 New Zealand recorded 3.9 million visitor arrivals. On 19 March 2020, after 28 Covid cases had been recorded, the government closed the country’s borders to all but New Zealand citizens and permanent residents.
+
+Over the next two months, a further 1433 caught the virus, and 22 died. The government decided to 'go hard and go early'. New Zealand was the only Western country to switch from the ‘flatten the curve’ suppression strategy adopted by most governments to a strategy of complete elimination of community transmission."
+[22] https://www.wired.co.uk/article/new-zealand-zero-covid
+"As other countries suffered mass infection and death, New Zealand was held up as a beacon of success for keeping Sars-CoV-2 at bay. In total, the country has recorded just 27 deaths due to Covid-19; the UK has almost 140,000. If we had the proportionate amount of deaths to New Zealand’s number, the nation’s death count would shrink to about 300, says Neil Pearce, professor of epidemiology and biostatistics at the London School of Hygiene and Tropical Medicine. 
+
+But Delta has hit New Zealand. On October 4, prime minister Jacinda Ardern unveiled that the country would be moving away from its elimination strategy, as it became clear that its battle with the Delta variant, with the first case found on August 17, was not ending anytime soon. “For this outbreak, it’s clear that long periods of heavy restrictions has not got us to zero cases,” she said."
+[23] https://www.wired.co.uk/article/new-zealand-zero-covid
+"But Delta has hit New Zealand. On October 4, prime minister Jacinda Ardern unveiled that the country would be moving away from its elimination strategy, as it became clear that its battle with the Delta variant, with the first case found on August 17, was not ending anytime soon. “For this outbreak, it’s clear that long periods of heavy restrictions has not got us to zero cases,” she said."
+[24] https://www.spiked-online.com/2021/08/19/new-zealands-zero-covid-trap/
+"Here is the reality of Zero Covid laid bare. There is no escape. If eliminating Covid is the goal, there is no end to lockdowns, no end to restrictions and no end to the constant fear that, at any time, your freedoms will be taken away and your life will be put on hold. Your country can be largely free of the virus for six months, but when one person in a city you have never been to tests positive, lockdown returns. New Zealand will leave this lockdown, but the fear of the next one will remain until the government and the people shake themselves out of this Zero Covid fantasy."
+[25] https://www.spiked-online.com/2021/08/19/new-zealands-zero-covid-trap/
+"To defend this lockdown, people point to New Zealand’s pitifully low vaccination rate. Less than 35 per cent of New Zealand’s population has received at least one dose of the vaccine, and less than 20 per cent has been fully vaccinated. In comparison, the UK has fully vaccinated around 60 per cent of the population.
+
+Much like in Australia, New Zealanders have been fed the false promise of ‘Zero Covid’ for so long that they are complacent about getting vaccinated. The new case that sparked the lockdown was New Zealand’s first case of transmission within the community in six months. Why get vaccinated if there is next to no risk of catching Covid? If a case emerges, the government will just lock the country down anyway."
+[26] https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
+[27] https://www.wired.co.uk/article/new-zealand-zero-covid
+"For the vast majority of the pandemic, life for New Zealanders has remained strikingly close to normality. Businesses have stayed open, children have attended school everyday, masks were practically a foreign concept. “It can be hard to convey to people outside the country just how much normality New Zealanders have experienced in the middle of the worst pandemic in 100 years,” says Amanda Kvalsvig, an epidemiologist at the University of Otago in Wellington."
+[28] https://www.wired.co.uk/article/new-zealand-zero-covid
+"As other countries suffered mass infection and death, New Zealand was held up as a beacon of success for keeping Sars-CoV-2 at bay. In total, the country has recorded just 27 deaths due to Covid-19; the UK has almost 140,000. If we had the proportionate amount of deaths to New Zealand’s number, the nation’s death count would shrink to about 300, says Neil Pearce, professor of epidemiology and biostatistics at the London School of Hygiene and Tropical Medicine."
+[29] https://foreignpolicy.com/2021/02/17/taiwan-new-zealand-singapore-covid-islands-of-immunity/
+"These three island nations have effectively defeated COVID-19 despite their urban population density, proximity to China, and robust international connectivity. Luck was clearly not on their side – but paranoia was. Robust contact tracing, strict lockdowns, enforced quarantines, isolation of vulnerable populations, and other measures were crucial to suppressing the virus in all three places.
+
+The varying locations of these three island nations show that it is not a particular geography that has succeeded but rather a particular geology: the fact of being an island."
+[30] https://www.theguardian.com/world/2020/aug/16/island-nations-have-the-edge-in-keeping-covid-away-or-most-do
+"Island nations have an advantage when it comes to stopping travellers importing disease, be it Covid or other infections.
+
+Seas are usually harder to cross than land, and beaches are easier to police. There are no cross-border towns, and fewer ways to sneak over frontiers.
+
+These advantages, combined with strict quarantine policies, have made island nations some of the most successful at containing Covid. But the ones that did best had shut themselves off from the world to varying degrees. And a fresh outbreak of cases in New Zealand last week suggests coronavirus can evade even tight controls."
+[31] https://www.theatlantic.com/ideas/archive/2021/10/dictatorships-democracies-coronavirus-vaccines-deaths/620272/
+"In fact, though it may be surprising to many, democracies have proved that they have the edge in many aspects of this crisis, including the initial containment of spread and compliance with measures designed to limit transmission. They are also better at preventing deaths from COVID-19."
+[32] https://www.ft.com/content/5d08522e-99b2-11ea-871b-edeb99a20c6e
+"Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found at https://www.ft.com/tour.
+ https://www.ft.com/content/5d08522e-99b2-11ea-871b-edeb99a20c6e
+
+ Citizens in democracies, it seems, are more likely to abide by the rules set by their governments. This is in line with studies showing that political repression reduces co-operation.
+
+While autocrats often seek to capitalise on perceived threats, their handling of the pandemic will not look appealing to the outside world. China’s strict lockdown has received the most attention, but flourishing democracies such as South Korea and Taiwan handled Covid-19 better by just about any measure."
+[33] https://www.reuters.com/world/china/china-covid-cases-hit-fresh-record-high-after-weekend-protests-2022-11-28/
+"The catalyst for the protests was an apartment fire last week in the western city of Urumqi that killed 10 people. Many speculated that COVID curbs in the city, parts of which had been under lockdown for 100 days, had hindered rescue and escape, which city officials denied."
+[34] https://www.aljazeera.com/program/inside-story/2021/1/8/can-the-world-still-look-to-u-s-for-leadership-on-democracy
+"Can the world still look to the US for leadership on democracy?
+
+The United States often calls itself the world’s greatest democracy, defending freedom, equality and justice for all."
+[35] https://www.bmj.com/content/370/bmj.m3417
+"The world has been staggered by the US’s disjointed response to covid-19, resulting in by far the highest case and death count globally. The die was cast by two fundamental policy decisions taken by the Trump administration, writes Drew Altman"
+[36] https://www.bbc.co.uk/news/world-us-canada-52407177
+"US President Donald Trump has been lambasted by the medical community after suggesting research into whether coronavirus might be treated by injecting disinfectant into the body.
+
+He also appeared to propose irradiating patients' bodies with UV light, an idea dismissed by a doctor at the briefing.
+
+Another of his officials had moments earlier said sunlight and disinfectant were known to kill the infection."
+[37] https://www.mayoclinic.org/coronavirus-covid-19/vaccine-tracker
+[38] https://www.washingtonpost.com/world/2021/11/02/pew-us-democracy-poll/
+[39] https://www.weforum.org/agenda/2021/01/what-is-vaccine-nationalism-coronavirus-its-affects-covid-19-pandemic/
+[40] https://harvardpolitics.com/vaccine-nationalism-cost/
+"Throughout 2020, numerous wealthy nations like Japan, Canada, the United States, and the United Kingdom spent billions of dollars to secure millions of vaccine doses for their respective countries through such bilateral agreements. By inundating drug manufacturers like Pfizer, BioNTech, and Moderna, AstraZeneca with billions of dollars in funding, these nations helped fund the research that brought multiple effective COVID-19 vaccines to market in record time; however, this funding only reserved vaccines for the countries wealthy enough to provide research funding for months during the height of the pandemic."
+[41] https://ourworldindata.org/grapher/covax-donations?country=FRA~ESP~SWE~USA~CAN~NOR~NZL~GBR~DNK~CHE~ITA~DEU~PRT~BEL~European+Union~JPN~NLD~FIN~HKG~IRL~AUT~BRA~SVK~SVN~KOR~MEX~GRC
+[42] https://unric.org/en/sweden-largest-per-capita-contributor-to-covax/
+[43] https://www.eiu.com/n/campaigns/democracy-index-2020/
+"United States of America
+
+Overall score: 7.92
+Rank: 25
+I Electoral process and pluralism: 9.17
+II Functioning of government: 6.79
+III Political participation: 8.89
+IV Political culture: 6.25
+V Civil liberties: 8.53
+
+(Page 9)"
+[44] https://www.theguardian.com/us-news/2020/nov/16/america-flawed-democracy-five-key-areas
+"As Ian Bassin, executive director of Protect Democracy, put it: “The United States just allowed an autocratic person to ascend to the presidency, to serve in it for four years and to very nearly extend that term. The big question is: how did that happen, what went wrong there?”"
+[45] https://foreignpolicy.com/2021/03/18/us-exceptionalism-covid-19-deaths/
+"With more than 53,000 COVID-19 deaths, the United States has accounted for 20 percent of recorded global mortality with just 4 percent of the global population."
+[46] https://www.bbc.com/news/world-us-canada-59645307
+[47] https://www.brookings.edu/blog/order-from-chaos/2020/06/16/reopening-the-world-how-the-pandemic-is-reinforcing-authoritarianism/
+"Authoritarian regimes are only good at responding to crises when they’re good, and when they’re not—which is most of the time—there is no obvious way to course correct. Correcting errors is entirely dependent on the very people who made the blunders in the first place. There are no strong or autonomous power centers that can counter or even temper the decisions of the authoritarian executive. Undemocratic regimes have a vested interest in suppressing information that reflects badly on senior officials, which is precisely what hobbled China’s response in the critical, early days of the virus."
+[48] https://www.hrw.org/news/2020/04/03/how-authoritarians-are-exploiting-covid-19-crisis-grab-power
+"For authoritarian-minded leaders, the coronavirus crisis is offering a convenient pretext to silence critics and consolidate power. Censorship in China and elsewhere has fed the pandemic, helping to turn a potentially containable threat into a global calamity. The health crisis will inevitably subside, but autocratic governments’ dangerous expansion of power may be one of the pandemic’s most enduring legacies."
+[49] https://www.frontiersin.org/articles/10.3389/fnut.2021.626432/full
+[50] https://www.msn.com/en-ae/news/world/uk-could-suffer-10000-extra-cancer-deaths-due-to-covid-pandemic/ar-AAOF5aW
+[51] https://www.reuters.com/article/uk-factcheck-lockdowns-idUSKBN2842WS
+"Some posts on the issue of lockdowns are missing context, and some present information that is contradicted by international studies. While it is true that more restrictive measures that aim to control the spread of SARS-CoV-2 can have an impact in income and mental health, multiple studies suggest that stay-at-home orders and other nonpharmaceutical interventions have a determining role in reducing the transmission of the virus. Experts highlight that a more “targeted” approach rather than a “nationwide” lockdown, can limit the impact of the pandemic while balancing other economic, mental health and social concerns."
+[52] https://www.france24.com/en/europe/20210321-anti-lockdown-protests-erupt-across-europe-as-tempers-fray-over-tightening-restrictions
+"Demonstrators took to the streets in several European cities on Saturday to protest Covid-19 lockdown restrictions, with clashes between demonstrators and police erupting in the German city of Kassel, as authorities tried to confront a third coronavirus wave."
+[53] https://www.poynter.org/newsletters/2021/when-it-comes-to-covid-19-whats-more-important-health-and-safety-or-personal-freedoms/
+"This is just a small sample size, but USA Today published results Sunday of a COVID-19 poll it conducted with Ipsos for a story written by Washington bureau chief Susan Page and environmental and health inequities reporter Nada Hassanein. The poll — which was conducted online on Aug. 17 and 18 among 1,088 adults — showed that Americans say protecting the common good is more important than ensuring personal liberty when considering whether to require individuals to get a COVID-19 vaccination or wear a mask."
+[54] https://www.unicef.org/press-releases/lego-foundation-becomes-single-largest-private-sector-contributor-unicefs-covid-0
+"UNICEF welcomes the LEGO Foundation’s announcement today of a $70 million contribution to UNICEF’s work within the COVAX and ACT-A facility. This is the single largest private sector donation to UNICEF’s COVID-19 response. It is part of the LEGO Foundation’s $150 million pledge to support children and families affected by the pandemic across the world."
+[55] https://www.who.int/initiatives/act-accelerator/covax
+[56] https://www.tandfonline.com/doi/full/10.1080/17441692.2021.1874470
+"For decades, governments and development partners promoted neoliberal policies in the health sector in many LMICs, largely motivated by the belief that governments in these countries were too weak to provide all the health services necessary to meet population needs. Private health markets became the governance and policy solution to improve the delivery of health services which allowed embedded forms of market failure to persist in these countries and which were exposed during the COVID-19 pandemic."
+[57] https://www.tandfonline.com/doi/full/10.1080/17441692.2021.1874470
+"Following precipitous drops in the demand for health services, as well as government restrictions on service provision, an important liquidity crunch emerged, especially among providers with business models based on elective procedures, medical tourism, and non-acute forms of care (Hellowell, 2020). In response, many of these providers have engaged in unethical business practices that have further limited service provision and have strained already tenuous and widely challenged public-private relationships."
+[58] https://www.devex.com/news/sponsored/q-a-bringing-the-private-sector-to-the-front-line-of-the-covid-19-battle-98414
+"An example of a possible solution is having the public sector focus its efforts on the COVID-19 response and contracting the private sector to provide essential health services, such as maternal health services. This model can be a win-win because it increases system capacity and also provides a financial lifeline to health businesses."
+[59] https://www.bma.org.uk/news-and-opinion/outsourced-and-undermined-the-covid-19-windfall-for-private-providers
+"Among the deals which have been struck: DHL, Unipart and Movianto to procure, manage logistics of and store PPE (personal protective equipment); Deloitte to manage the logistics of national drive-in testing centres and super-labs; Serco to run the contact tracing programme; Palantir and Faculty A.I. to build the COVID-19 datastore and Capita to onboard returning health workers in England.
+
+‘Since the passing of the Health and Social Care Act in 2012 the NHS in England has been forced down a route of increased marketisation and privatisation – and the Government has accelerated its aggressive outsourcing to private firms during the COVID-19 pandemic,’ BMA council deputy chair David Wrigley says."
+[60] https://www.theguardian.com/world/2021/oct/07/private-hospitals-treated-eight-covid-patients-a-day-during-pandemic-says-report
+"Private hospitals treated a total of just eight Covid patients a day during the pandemic despite a multi-billion pound deal with the government to help stop the NHS being overwhelmed, a report reveals.
+
+[...]
+
+The Treasury agreed in March 2020 to pay for a deal to block-book the entire capacity of all 7,956 beds in England’s 187 private hospitals along with their almost 20,000 staff to help supplement the NHS’s efforts to cope with the unfolding pandemic. It is believed to have cost £400m a month.
+
+However, the Centre for Health and the Public Interest’s report (Pdf) says that on 39% of days between March 2020 and March this year, private hospitals treated no Covid patients at all and on a further 20% of days they cared for only one person. Overall, they provided only 3,000 of the 3.6m Covid bed days in those 13 months – just 0.08% of the total."
+[61] https://www.cambridge.org/core/journals/health-economics-policy-and-law/article/irelands-takeover-of-private-hospitals-during-the-covid19-pandemic/E0E31A88A833B9A320AB773E88BE5E3A
+"Although the Irish hospital network has not been overwhelmed, it has faced pressures, with a total of 13,313 persons hospitalised, including 1402 admitted to the intensive care unit. Out of caution, in spring 2020, in anticipation of possible surges in hospitals in light of international experience, the Irish government reached an agreement with private hospitals to access their capacity for three months to alleviate pressure on the public system, as part of its comprehensive response to the pandemic."
+[62] https://www.gov.uk/government/news/uk-government-announces-partnership-with-british-rapid-test-manufacturers
+"UK government announces partnership with British rapid test manufacturers
+
+Two major contracts secured with British manufacturers to ensure the supply of COVID-19 lateral flow tests."
+[63] https://www.theguardian.com/world/2021/apr/25/covid-19-how-accurate-are-lateral-flow-tests
+"The accuracy of LFTs appears to depend on the make of the test used, whether people have symptoms, and who is conducting the test.
+
+The Department of Health and Social Care (DHSC) said the Innova lateral flow devices detect over 95% of individuals with high viral load, the most infectious cases who are most likely to spread the virus further.
+
+However, mass screening in Liverpool found that the devices detected only 67% of highly infectious people who had no symptoms. These tests were also “assisted” by experts, and have been shown to be more accurate than those used by untrained members of the public."
+[64] https://www.theguardian.com/world/2021/apr/25/covid-19-how-accurate-are-lateral-flow-tests
+"Everyone in England is now able to take a free Covid-19 lateral flow test (LFT) twice a week, but experts have raised concerns about accuracy. We take a look at the issues."
+[65] https://biontech.de/covid-19
+[66] https://www.astrazeneca.co.uk/
+[67] https://www.pharmaceutical-technology.com/features/russia-astrazeneca-accused-stealing-data-covid-19-vaccine/
+"Earlier this week, news broke that Russia had allegedly stolen the blueprints for AstraZeneca’s Covid-19 vaccine to make its own jab, Sputnik V. According to a report by The Sun, security services informed government ministers that a spy for the Russian state had stolen information on the technology behind Vaxzevria, the UK-based company’s shot."
+[68] https://www.cnbc.com/2021/10/13/russia-denies-claims-it-stole-covid-vaccine-blueprint.html
+"Russia has vehemently denied new accusations claiming that Russian spies stole the "blueprint" for the Oxford-AstraZeneca vaccine and used it to create its own Sputnik V shot, with the head of Russia's sovereign wealth fund calling the claims "scientific nonsense.""
+[69] https://www.theguardian.com/science/2021/apr/15/oxfordastrazeneca-covid-vaccine-research-was-97-publicly-funded
+"At least 97% of the funding for the development of the Oxford/AstraZeneca Covid-19 vaccine has been identified as coming from taxpayers or charitable trusts, according to the first attempt to reconstruct who paid for the decades of research that led to the lifesaving formulation.
+
+Using two different methods of inquiry, researchers were able to identify the source of hundreds of millions of pounds of research grants from the year 2000 onwards for published work on what would eventually become the novel technology that underpins the jab, as well as funding for the final product.
+
+The overwhelming majority of the money, especially in the early stages of the research, came from UK government departments, British and American scientific institutes, the European commission and charities including the Wellcome Trust."
+[70] https://www.bbc.co.uk/news/world-asia-china-51364382
+"On 30 December he sent a message to fellow doctors in a chat group warning them about the outbreak and advising they wear protective clothing to avoid infection.
+
+What Dr Li didn't know then was that the disease that had been discovered was an entirely new coronavirus.
+
+Four days later he was summoned to the Public Security Bureau where he was told to sign a letter. In the letter he was accused of "making false comments" that had "severely disturbed the social order".
+
+"We solemnly warn you: If you keep being stubborn, with such impertinence, and continue this illegal activity, you will be brought to justice - is that understood?" Underneath in Dr Li's handwriting is written: "Yes, I do.""
+[71] https://www.irishtimes.com/news/world/asia-pacific/china-exonerates-coronavirus-whistleblower-doctor-who-died-1.4207837
+"The Communist Party’s top disciplinary body said that Wuhan police had acted “inappropriately” by punishing the doctor, and they had issued “disciplinary punishments” to policemen and offered a “solemn apology” to Li Wenliang’s family.
+
+Local officials “lost control” and showed “ignorance of their job duties”, the National Supervisory Commission said."
+[72] https://www.irishtimes.com/news/world/asia-pacific/china-exonerates-coronavirus-whistleblower-doctor-who-died-1.4207837
+"Dr Li (34), one of a group of doctors in Wuhan who shared posts on social media warning of a deadly Sars-like virus spreading in the city in December, was reprimanded by police and made to sign a confession and agreement to not commit any more “illegal actions”."
+[73] https://www.rte.ie/brainstorm/2021/0401/1207407-whistleblowers-investigates-eu-irish-law/
+"In July 2014, Ireland enacted one of the strongest whistleblower protection legislations in the world. Commended by experts internationally, the Protected Disclosures Act 2014 offers more robust protections for Irish whistleblowers than available in other countries.
+
+The Act incentivises workers to make disclosures of relevant wrongdoings internally to their employer. But it also permits workers to go outside their organisation if that is what they wish to do, albeit this requires additional criteria to be met for the disclosure to be protected under the Act in legal proceedings."
+[74] https://www.europarl.europa.eu/doceo/document/A-8-2018-0398-AM-155-155_EN.pdf
+[75] https://www.europarl.europa.eu/news/en/press-room/20190410IPR37529/protecting-whistle-blowers-new-eu-wide-rules-approved
+[76] https://www.dialogueseconomiques.fr/en/article/whistle-blowing-not-just-necessary-its-also-measurable
+"A case in point is the death of the Maltese whistle-blower Daphne Caruana Galizia in October 2017 in a car bomb blast. She was instrumental in investigating the Panama Papers scandals linked to Malta. Her revelations particularly implicated the Maltese Prime Minister and two of his close aides."
+[77] https://www.theguardian.com/media/2021/sep/27/senior-cia-officials-trump-discussed-assassinating-julian-assange
+"Senior CIA officials during the Trump administration discussed abducting and even assassinating WikiLeaks founder, Julian Assange, according to a US report citing former officials.
+
+The discussions on kidnapping or killing Assange took place in 2017, Yahoo News reported, when the fugitive Australian activist was entering his fifth year sheltering in the Ecuadorian embassy. The then CIA director, Mike Pompeo, and his top officials were furious about WikiLeaks’ publication of “Vault 7”, a set of CIA hacking tools, a breach which the agency deemed to be the biggest data loss in its history."
+[78] https://www.theguardian.com/us-news/2020/nov/16/america-flawed-democracy-five-key-areas
+[79] https://www.theguardian.com/film/2019/may/26/xy-chelsea-manning-documentary-film-review
+"“Where would you start the story – your story?” director Tim Travers Hawkins asks his subject. The lens keeps refocusing on Manning’s face, as though it can’t quite get a clear visual. Though she is not the film-maker, these strategies offer Manning an opportunity to reclaim some agency over the way she has been presented after her 35-year prison sentence in 2013 for treason and its subsequent commutation (she spent seven years inside)."
+[80] https://www.theguardian.com/us-news/2017/jun/12/chelsea-manning-interview-leaked-documents
+"Manning, 29, said she attempted to contact the New York Times and spoke to a Washington Post reporter during this period but neither newspaper was quick to respond so she gave the information to WikiLeaks, which went on to partner with news organizations including the Guardian to share the leaked information.
+
+Manning said she learned about WikiLeaks during a security training course in 2008 and had begun chatting online with people about the site in 2009. She distinguished her views on leaking from the organization’s, which has propagated a full transparency ethos.
+
+She said that then and now, she believed “there are plenty of things that should be kept secret”.
+
+“Let’s protect sensitive sources,” Manning said. “Let’s protect troop movements. Let’s protect nuclear information. Let’s not hide missteps. Let’s not hide misguided policies. Let’s not hide history. Let’s not hide who we are and what we are doing.”"
+[81] https://www.theguardian.com/us-news/2019/may/16/chelsea-manning-jailed-again-as-she-refuses-to-testify-before-grand-jury
+"Chelsea Manning was again behind bars on Thursday night after she was jailed for a second time for contempt of court, having refused to cooperate with a grand jury.
+
+A defiant Manning told Judge Anthony Trenga in a federal district court in Alexandria, Virginia, that she would “rather starve to death” than do what the state insisted and give testimony before the grand jury. Having already served 62 days in jail, 28 of which were spent in solitary confinement, she now faces up to 18 months more in custody.
+
+Trenga further tightened the screws on the former army private by adding a financial penalty. If Manning continues to refuse testimony and remains in jail after 30 days, she will be fined $500 for every subsequent day behind bars. If she reaches 60 days, the figure will be raised to $1,000 a day."
+[82] https://www.theguardian.com/world/2020/jul/26/kim-jong-un-conveys-urgent-meeting-after-suspected-case-of-covid-19
+[83] https://www.washingtonpost.com/world/asia_pacific/northkorea-coronavirus-covid-crisis/2021/06/29/b35dfd36-d93a-11eb-8c87-ad6f27918c78_story.html
+[84] https://www.wired.co.uk/article/north-korea-covid-news
+"“I don't know many people in the North Korea watcher, analyst and journalist community that actually believe there are no cases,” Park says. All of the North Korea experts spoken to for this article agree. Some have accused North Korea of lying, while others suggest its approach is all about keeping control and public perception."
+[85] https://www.irishtimes.com/news/world/asia-pacific/north-korea-reports-a-great-crisis-in-its-covid-response-1.4607605
+"North Korea has claimed zero cases of Covid-19 since the start of the pandemic. In January 2020, Pyongyang moved swiftly to sever most land, sea and air routes to the country and instituted sweeping restrictions on domestic movement."
+[86] https://www.bbc.com/news/world-asia-57759440
+"Kim Jong-un has acknowledged that the country is facing food shortages, describing the situation as "tense".
+
+He made the comments last month and also told citizens to prepare for the "worst ever outcome" which has invoked comparisons to a deadly famine in the 1990s."
+[87] https://www.wired.co.uk/article/north-korea-covid-news
+"Kim Jong-un acted quickly. On January 22, 2020, North Korea closed its borders with China and Russia to stop a new, mysterious virus from spreading into the country. At the time, what we now know as Covid-19, had killed just nine people and infected 400 others. More than a year later, the hermit kingdom’s border remains sealed tight shut."
+[88] https://www.wired.co.uk/article/north-korea-covid-news
+"South Korean intelligence agencies claim to have uncovered the execution of one Covid rule-breaker within North Korea."
+[89] https://www.wired.co.uk/article/north-korea-covid-news
+"“They've created buffer zones between one and two metres wide at the border.” The country is reported to have “shoot-to-kill” orders in place to stop anyone bringing Covid-19 inside its borders."
+[90] https://www.wired.co.uk/article/north-korea-covid-news
+"Officially, North Korea has recorded no cases of Covid-19. Weekly reports from the World Health Organisation’s South-East Asia office show that North Korean samples from PCR tests are being processed in 15 laboratories but all of these have come back negative. As of January 8, the most recent date for which figures are available, 26,244 samples from 13,259 people have come back negative. Around 700 North Koreans, out of a population of 25 million, are being tested each week."
+[91] https://www.wired.co.uk/article/north-korea-covid-news
+"From the outside, it is impossible to prove the scale of the Covid-19 crisis in North Korea. All official messaging is controlled by Kim Jong-un’s regime and international diplomats and humanitarian groups have largely left the country. The last remaining members of the International Committee of the Red Cross left the country on December 2. The result is that little reliable information finds its way out of North Korea – those with contacts inside the country and who work with defectors say it has been impossible to work out the reality of the health situation on the ground."
+[92] https://www.bbc.com/news/world-asia-57759440
+"Russia has offered North Korea Covid vaccines once again, amid reports that a harsh lockdown is leading to extreme hunger.
+
+Pyongyang has refused vaccines and aid from a number of countries.
+
+It has instead sealed borders to try and keep the virus out but that has affected trade with China. It relies on Beijing for food, fertiliser and fuel.
+
+Kim Jong-un has acknowledged that the country is facing food shortages, describing the situation as "tense"."
+[93] https://theconversation.com/china-beat-the-coronavirus-with-science-and-strong-public-health-measures-not-just-with-authoritarianism-150126
+"China beat the coronavirus with science and strong public health measures, not just with authoritarianism
+
+I live in a democracy. But as Thanksgiving approached, I found myself longing for the type of freedom I am seeing in China.
+
+People in China are able to move around freely right now. Many Americans may believe that the Chinese are able to enjoy this freedom because of China’s authoritarian regime. As a scholar of public health in China, I think the answers go beyond that.
+
+My research suggests that the control of the virus in China is not the result of authoritarian policy, but of a national prioritization of health. China learned a tough lesson with SARS, the first coronavirus pandemic of the 21st century."
+[94] https://covid19.who.int/region/wpro/country/cn
+[95] https://data.worldbank.org/indicator/SP.POP.TOTL?locations=CN
+[96] https://covid19.who.int/region/euro/country/gb
+[97] https://data.worldbank.org/indicator/SP.POP.TOTL?locations=GB
+[98] https://www.economist.com/graphic-detail/2021/05/30/covid-19-deaths-in-wuhan-seem-far-higher-than-the-official-count
+"Covid-19 deaths in Wuhan seem far higher than the official count
+
+Partial data suggest that the city’s initial outbreak may have been two or three times worse than reported by Chinese officials"
+[99] https://indianexpress.com/article/explained/explained-how-china-beat-covid-19-and-revived-economy7175926/
+"The order came on the night of Jan. 12, days after a new outbreak of the coronavirus flared in Hebei, a province bordering Beijing. The Chinese government’s plan was bold and blunt: It needed to erect entire towns of prefabricated housing to quarantine people, a project that would start the next morning.
+
+Part of the job fell to Wei Ye, the owner of a construction company, which would build and install 1,300 structures on commandeered farmland."
+[100] https://www.independent.co.uk/news/world/americas/us-politics/wuhan-coronavirus-china-information-covid-hubei-province-a9678836.html
+"US intelligence officials claim that local officials in China kept the devastation caused by the coronavirus in its earliest days away from the broader Chinese government for weeks, slowing the nation's ability to respond to the virus before it began to spread.
+
+The intelligence report, detailed in a New York Times story, concluded that city officials in Wuhan and in Hubei Province, where the virus first emerged, attempted to hide the information from the central Chinese government."
+[101] https://www.reuters.com/world/china/chinese-northern-city-soft-lockdown-amid-latest-covid-19-outbreak-2021-10-19/
+[102] https://www.rte.ie/news/world/2021/0914/1246599-covid-global/
+[103] https://dictionary.cambridge.org/dictionary/english/authoritarian
+"authoritarian
+
+[...]
+
+demanding that people obey completely and refusing to allow them freedom to act as they wish:"
+[104] https://www.e-ir.info/2011/02/04/can-china-be-defined-as-an-authoritarian-state/
+"As has previously been mentioned according to the definition of authoritarian put forward by the encyclopaedia Britannica China is, strictly speaking, an authoritarian state with a government that doesn’t allow freedom of thought or action, places power into the hands of a small élite that is not democratically responsible the citizens of China, wields power arbitrarily, cannot be replaced by citizens “choosing among various competitors in elections”, and does not allow alternative political parties or political groupings to compete for power."
+[105] https://www.wearethemighty.com/mighty-trending/the-21-most-authoritarian-regimes-in-the-world/
+"The Economist Intelligence Unit has released its latest Democracy Index, which ranks 167 countries according to political and civic freedom.
+
+Countries are given a score out of 10 based on five criteria. Above eight is a “full democracy,” while below four is an “authoritarian regime.”
+
+Scandinavian countries topped the list and the U.S. remained a “flawed democracy” in this index.
+
+The study has five criteria: Whether elections are free and fair (“electoral process and pluralism”), whether governments have checks and balances (“functioning of government”), whether citizens are included in politics (“political participation”), the level of support for the government (“political culture”), and whether people have freedom of expression (“civil liberties”)."
+[106] https://www.democracymatrix.com/ranking
+"Rank: 172 
+Country: China 
+Total Value Index: 0.048 
+Classification: Hard Autocracy"
+[107] https://theconversation.com/china-beat-the-coronavirus-with-science-and-strong-public-health-measures-not-just-with-authoritarianism-150126
+"After being forced to come to terms with SARS, China’s leaders eventually did enforce quarantine in Beijing and canceled the week-long May Day holiday of 2003. This helped to end the pandemic within a few short months, with minimal impact. SARS infected approximately 8,000 worldwide and killed about 800, 65% of which occurred in China and Hong Kong.
+
+The Chinese government learned from SARS the important role public health plays in protecting the nation. Following SARS, the government improved training of public health professionals and developed one of the most sophisticated disease surveillance systems in the world. While caught off guard for this next big coronavirus outbreak in December 2019, the country quickly mobilized its resources to bring the epidemic almost to a halt inside its borders within three months."
+[108] https://www.bloomberg.com/graphics/covid-resilience-ranking/
+[109] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457624/
+"For instance, the partial reopening of businesses in Georgia on Apr 24th, led to a 13% increase in visitors from nearby states28. This surge in inter-state mobility both increases distance traveled and the amount of clustering in a limited number of areas. The same result occurs if individual businesses or institutions decide on different reopening strategies. For instance, in Burlington, Vermont retail stores were allowed to open with limited capacity on May 18th. While many stores opened on this date, many store owners decided to postpone openings out of safety concerns29. Thus, if a state relaxes restrictions on businesses, but some businesses owners choose to remain closed, this has the same effect demonstrated in our analyses. Scattered or disorganized reopening after lock-down can therefore spark new waves of infection. Critically, reopening more slowly is not necessarily better if done non-uniformly."
+[110] https://www.dovepress.com/does-high-public-trust-amplify-compliance-with-stringent-covid-19-gove-peer-reviewed-fulltext-article-RMHP
+"We find strong evidence of the increase in compliance due to the imposition of stricter government restrictions. The examination of heterogeneous effects suggests that high public trust in government and the perception of its truthfulness double the impact of policy restrictions on public compliance. Among political regimes, higher levels of public trust significantly increase the predicted compliance as stringency level rises in authoritarian and democratic countries."
+[111] https://www.khaleejtimes.com/news/uae-tops-mena-region-in-terms-of-adherence-to-the-laws
+"The UAE remains the best country in the Middle East and North Africa in terms of adherence to the law, thanks to no corruption in the country and the best civil and criminal justice provided to the residents.
+
+According to the latest World Justice Project’s Rule of Law Index 2021 released on Thursday, the UAE topped in the Mena region as it achieved the highest ranking in many sub-indices, including the absence of corruption, order, and security regulatory enforcement, civil justice and criminal justice."
+[112] https://www.bbc.com/news/world-asia-57225936
+"Previous crackdowns only demonstrated how resourceful people have been in circulating and watching foreign films which are usually smuggled over the border from China.
+
+For a number of years, dramas have been passed around on USB sticks which are now as "common as rocks", according to Mr Choi. They're easy to conceal and they're also password encrypted.
+
+"If you type in the wrong password three times in a row, the USB deletes its contents. You can even set it so this happens after one incorrect input of the password if the content is extra sensitive."
+[113] https://www.globaltimes.cn/content/1198253.shtml
+"As of the end of July, China has investigated and dealt with 77,668 criminals and 64,831 cases of corruption involving mafia-like groups and "protective umbrellas", Chinese law enforcement agencies said on Wednesday. 
+
+China has dismantled 453 mafia-like gangs, each of which had assets of over 100 million yuan ($14.5 million), since a nationwide campaign was established to crack down on such groups in early 2018, said China's national office against organized crime at a press conference on Wednesday.
+
+The 453 dismantled gangs' total assets amounted to 300.8 billion yuan, according to the office. Regional governments have been entrusted to manage the 887 enterprises involved with the gangs and ensure jobs for their more than 36,000 employees, the office said."
+[114] https://www.oxfordmartin.ox.ac.uk/downloads/academic/Democracy-Culture-and-Contagion_May13.pdf
+"However, we find no evidence that autocratic governments were more effective in reducing travel, and evidence to the contrary: countries with democratically accountable governments introduced less stringent lockdowns but were approximately 20% more effective in reducing geographic mobility at the same level of policy stringency."
+[115] https://www.cnbc.com/2020/04/18/covid-19-response-vs-civil-liberties-striking-the-right-balance.html
+"Instead, they say, we should be weighing the specific kinds of information that health officials need to do their jobs, whether there are less intrusive alternatives, and whether there’s evidence that these approaches will work.
+
+Once those questions are answered, we need to forge ahead in a way that preserves our privacy and civil liberties as much as possible, while ensuring that there are safeguards in place. It’s vital, they say, that powers granted to governments during times of crisis do not continue once Covid-19 is over. 
+
+“The best way to balance public health with civil liberties is with evidence,” said Lawrence Gostin, a professor of global health law at Georgetown Law."
+[116] https://www.nature.com/articles/d41586-020-00740-y
+"When a person tests positive, their city or district might send out an alert to people living nearby about their movements before being diagnosed. A typical alert can contain the infected person’s age and gender, and a detailed log of their movements down to the minute — in some cases traced using closed-circuit television and credit-card transactions, with the time and names of businesses they visited. In some districts, public information includes which rooms of a building the person was in, when they visited a toilet and whether or not they wore a mask. Even overnight stays at ‘love motels’ have been noted.
+
+[...]
+
+But she says she’s not sure that publicizing such information is worth the risk of exposing people to the social stigma that might come if their community knows they are infected. The potential for stigma could even dissuade some infected people from coming forward to get tested, says Majumder."
+[117] https://www.brookings.edu/blog/order-from-chaos/2020/06/16/reopening-the-world-how-the-pandemic-is-reinforcing-authoritarianism/
+"Democratic governments may try to suppress information and spin or downplay crises as well— as the Trump administration did—but they rarely get away with it. If anything, the intent to suppress on the part of the government can provoke an unusually intense desire to expose its mistakes on the part of the press, the legislative branch, and civil society. Even within the executive, experts and bureaucrats, as with the White House Coronavirus Task Force, can temper and balance the instincts of elected officials, including the president—and they can do so without fearing for their livelihoods or freedom."
+[118] https://hir.harvard.edu/covid-authoritarianism/
+"Perhaps more troubling is the case of China, which has begun its recovery process. A new health code system assigns individuals a color—green, yellow, or red—based on their risk of carrying the virus. Those who are assigned yellow are required to self-quarantine, while those who receive red have their location sent to the police immediately. In almost all public places, including the subway, markets, and workplaces, showing a green code is a prerequisite to entry. Workers stand outside barriers where citizens are subsequently screened."
+[119] https://www.nature.com/articles/d41586-020-00740-y
+"When a person tests positive, their city or district might send out an alert to people living nearby about their movements before being diagnosed. A typical alert can contain the infected person’s age and gender, and a detailed log of their movements down to the minute — in some cases traced using closed-circuit television and credit-card transactions, with the time and names of businesses they visited. In some districts, public information includes which rooms of a building the person was in, when they visited a toilet and whether or not they wore a mask. Even overnight stays at ‘love motels’ have been noted."
